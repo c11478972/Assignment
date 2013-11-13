@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Vehicle:</b>
+  <%= @repair.vehicle.registration_num %>
+</p>
+
+<p>
+  <b>Service station:</b>
+  <%= @repair.service_station.name %>
+</p>
+
+<p>
+  <b>End date:</b>
+  <%= @repair.end_date %>
+</p>
+
+<p>
+  <b>Cost €:</b>
+  <%= @repair.cost %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @repair.description %>
+</p>
+
+
+<%= link_to 'Edit', edit_repair_path(@repair) %> |
+<%= link_to 'Back', repairs_path %>

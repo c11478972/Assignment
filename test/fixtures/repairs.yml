@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  vehicle_id: 1
+  service_station_id: 1
+  end_date: 2013-10-04
+  description: MyText
+
+two:
+  vehicle_id: 1
+  service_station_id: 1
+  end_date: 2013-10-04
+  description: MyText
