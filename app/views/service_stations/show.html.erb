@@ -1,0 +1,38 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @service_station.name %>
+</p>
+
+<p>
+  <b>Owner:</b>
+  <%= @service_station.owner %>
+</p>
+
+<p>
+  <b>Contact number:</b>
+  <%= @service_station.contact_number %>
+</p>
+
+<p>
+  <b>Address:</b>
+  <%= @service_station.address %>
+</p>
+<p>
+  <b>Location:</b>
+  <%= @service_station.location.postal_code %>
+</p>
+<p>
+  <b>Logo:</b>
+  <%= @service_station.logo %>
+</p>
+
+<p>
+  <b>Type:</b>
+  <%= @service_station.sstype %>
+</p>
+
+
+<%= link_to 'Edit', edit_service_station_path(@service_station) %> |
+<%= link_to 'Back', service_stations_path %>

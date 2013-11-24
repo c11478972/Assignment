@@ -1,0 +1,58 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>First name:</b>
+  <%= @customer.first_name %>
+</p>
+
+<p>
+  <b>Last name:</b>
+  <%= @customer.last_name %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%= @customer.email %>
+</p>
+
+<p>
+  <b>Address:</b>
+  <%= @customer.address %>
+</p>
+
+<p>
+  <b>Location:</b>
+  <%= @customer.location.postal_code %>
+</p>
+
+<p>
+	<% if !@customer.vehicles.empty? %>
+		<b> Vehicle Information </b>
+		<table>
+			<tr>
+				<th>Category</th>
+				<th>Model</th>
+				<th>Reg Number</th>
+				<th></th>
+				<th></th>
+			</tr>
+			<% @customer.vehicles.each do |v|%>
+				<tr>
+					<td><%=v.vehicletype%></td>
+					<td><%=v.model%></td>
+					<td><%=v.registration_num%></td>
+					<td><%= link_to 'Edit', edit_vehicle_path(v) %></td>
+					<td><%= link_to 'Destroy', v, confirm: 'Are you sure?', method: :delete %></td>
+					
+					
+				</tr>
+			<%end%>
+		</table>
+	<%else%>
+		<b>My bad, you don't have any vehicles</b>
+	<%end%>
+</p>
+
+<%= button_to 'Add Vehicle',  vehicles_path %>
+<%= link_to 'Edit', edit_customer_path(@customer) %> |
+<%= link_to 'Back', customers_path %>

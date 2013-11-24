@@ -1,0 +1,36 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Postal code:</b>
+  <%= @location.postal_code %>
+</p>
+<p> 
+	<% if !@location.service_stations.empty? %>
+		<b>Service Stations in this area: </b><br \>
+		<table>
+			<th>Name</th>
+			<th>Owner</th>
+			<th>Contact Number</th>
+			<th>Address</th>
+			<th>Logo</th>
+			<th>Services</th>
+		</tr>
+		<% @location.service_stations.each do |ss| %>
+			<tr>
+				<td><%= ss.name %></td>
+				<td><%= ss.owner %></td>
+				<td><%= ss.contact_number %></td>
+				<td><%= ss.address %></td>
+				<td><%= image_tag(ss.logo, size: '50x50') %></td>
+				<td><%= ss.sstype %></td>
+			</tr>
+		<%end%>
+		</table>
+	<%else %>
+		<b>There are no Service Stations in this Location</b>
+	<% end %>
+</p>
+
+
+<%= link_to 'Edit', edit_location_path(@location) %> |
+<%= link_to 'Back', locations_path %>

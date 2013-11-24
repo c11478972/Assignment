@@ -1,0 +1,35 @@
+<h1>Service Stations</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Owner</th>
+    <th>Contact Number</th>
+    <th>Address</th>
+	<th>Location</th>
+    <th>Logo</th>
+    <th>Service</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @service_stations.each do |service_station| %>
+  <tr>
+    <td><%= service_station.name %></td>
+    <td><%= service_station.owner %></td>
+    <td><%= service_station.contact_number %></td>
+    <td><%= service_station.address %></td>
+	<td><%= service_station.location.postal_code %></td>
+    <td><%= image_tag(service_station.logo, :size =>'50x50') %></td>
+    <td><%= service_station.sstype %></td>
+    <td><%= link_to 'Show', service_station %></td>
+    <td><%= link_to 'Edit', edit_service_station_path(service_station) %></td>
+    <td><%= link_to 'Destroy', service_station, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Service station', new_service_station_path %>
