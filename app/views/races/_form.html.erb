@@ -1,0 +1,65 @@
+<%= form_for(@race) do |f| %>
+  <% if @race.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@race.errors.count, "error") %> prohibited this race from being saved:</h2>
+
+      <ul>
+      <% @race.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :racename %><br />
+    <%= f.text_field :racename %>
+  </div>
+  <div class="field">
+    <%= f.label :circutmap %><br />
+    <%= f.text_field :circutmap %>
+  </div>
+  <div class="field">
+    <%= f.label :trailer %><br />
+    <%= f.text_area :trailer %>
+  </div>
+  <div class="field">
+    <%= f.label :dor %><br />
+    <%= f.date_select :dor %>
+  </div>
+  <div class="field">
+    <%= f.label :vehicletype %><br />
+    <%= f.text_field :vehicletype %>
+  </div>
+  <div class="field">
+    <%= f.label :racetype %><br />
+    <%= f.text_field :racetype %>
+  </div>
+  <div class="field">
+    <%= f.label :sponsor %><br />
+    <%= f.number_field :sponsor %>
+  </div>
+  <div class="field">
+    <%= f.label :location %><br />
+    <%= f.text_field :location %>
+  </div>
+  <div class="field">
+    <%= f.label :telephone %><br />
+    <%= f.text_field :telephone %>
+  </div>
+  <div class="field">
+    <%= f.label :website %><br />
+    <%= f.text_field :website %>
+  </div>
+  <div class="field">
+    <%= f.label :driverentryfee %><br />
+    <%= f.text_field :driverentryfee %>
+  </div>
+  <div class="field">
+    <%= f.label :spectatorfee %><br />
+    <%= f.text_field :spectatorfee %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

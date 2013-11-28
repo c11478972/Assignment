@@ -1,0 +1,1327 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!-- saved from url=(0046)http://www.bbc.co.uk/news/in-pictures-23347210 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#" xml:lang="en-GB" class=" blq-js"><object type="{0C55C096-0F1D-4F28-AAA2-85EF591126E7}" cotype="cs" id="cosymantecbfw" style="width: 0px; height: 0px; display: block;"></object><!-- THIS FILE CONFIGURES SHARED HIGHWEB STATIC ASSETS --><!-- mapping_news.inc --><!-- THIS FILE CONFIGURES NEWS STATIC ASSETS  --><!-- THIS FILE CONFIGURES VOTE 2012 STATIC ASSETS  --><!-- hi/shared/head_initial.inc --><!-- IGOR News --><head profile="http://dublincore.org/documents/dcq-html/" resource="http://www.bbc.co.uk/news/in-pictures-23347210" typeof="rnews:NewsItem"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="./BBC_News_Your_pictures_Racing_files/em.js"></script><script async="" type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/gpt.js"></script>
+        <meta http-equiv="X-UA-Compatible" content="IE=8">
+        
+        <title>BBC News - Your pictures: Racing</title>
+        <meta name="Description" content="Readers&#39; photos on the theme of racing.">
+        <meta property="rnews:description" content="Readers&#39; photos on the theme of racing.">
+                <meta name="OriginalPublicationDate" content="2013/07/18 09:04:00">
+        <meta property="rnews:datePublished" content="2013/07/18 09:04:00">
+        <meta name="UKFS_URL" content="/news/in-pictures-23347210">
+                <meta name="THUMBNAIL_URL" content="http://news.bbcimg.co.uk/media/images/68800000/jpg/_68800215_68787691.jpg">
+        <meta property="rnews:thumbnailUrl" content="http://news.bbcimg.co.uk/media/images/68800000/jpg/_68800215_68787691.jpg">
+                <meta name="Headline" content="Your pictures: Racing">
+        <meta property="rnews:headline" content="Your pictures: Racing">
+        <meta name="IFS_URL" content="/news/in-pictures-23347210">
+        <meta name="Section" content="In Pictures">
+        <meta name="contentFlavor" content="STORY">
+		                        <meta name="CPS_ID" content="23347210">
+        <meta name="CPS_SITE_NAME" content="BBC News">
+        <meta name="CPS_SECTION_PATH" content="In Pictures">
+        <meta name="CPS_ASSET_TYPE" content="PGL">
+        <meta name="CPS_PLATFORM" content="HighWeb">
+        <meta name="CPS_AUDIENCE" content="International">
+        <meta property="rnews:creator" content="http://www.bbc.co.uk#org">
+
+            		<meta property="og:title" content="Your pictures: Racing">
+    		<meta property="og:type" content="article">
+    		<meta property="og:url" content="http://www.bbc.co.uk/news/in-pictures-23347210">
+    		<meta property="og:site_name" content="BBC News">
+            			<meta property="og:image" content="http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg">
+											
+				<meta name="bbcsearch_noindex" content="atom">
+		
+        <link rel="canonical" href="./BBC_News_Your_pictures_Racing_files/BBC_News_Your_pictures_Racing.jpg">
+       	        
+        
+        
+
+        <!-- hi/news/head_first.inc -->
+
+<!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- Chartbeat Web Analytics code - end -->
+
+<meta name="application-name" content="BBC News">
+<meta name="msapplication-TileImage" content="/img/1_0_3/cream/hi/news/bbc-news-pin.png">
+<meta name="msapplication-TileColor" content="#CC0101">
+<meta name="twitter:card" value="summary">
+
+        <!-- Project IGOR - Barlesque redirection logic - START -->
+
+
+<!-- Project IGOR - Barlesque redirection logic - END -->
+
+
+<!-- PULSE_ENABLED:yes -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+	
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+		
+
+
+
+
+
+
+	
+		
+
+    
+   <meta http-equiv="X-UA-Compatible" content="IE=8">  
+  <link rel="schema.dcterms" href="http://purl.org/dc/terms/">  <link rel="index" href="http://www.bbc.co.uk/a-z/" title="A to Z"> <link rel="copyright" href="http://www.bbc.co.uk/terms/" title="Terms of Use"> <link rel="icon" href="http://www.bbc.co.uk/favicon.ico" type="image/x-icon">  <meta name="viewport" content="width = 996"> 
+
+<script type="text/javascript">/*<![CDATA[*/
+window.orb = window.orb || {};
+(function() {
+    'use strict';
+    window.fig = window.fig || {};
+    window.fig.manager = {
+                include: function(w) {
+            w = w || window;
+            var d = w.document,
+                c = d.cookie,
+                f = c.match(/ckns_orb_fig=([^;]+)/);
+
+            if ( !f && c.indexOf('ckns_orb_nofig=1') > -1 ) {
+                this.setFig(w, {no:1});
+            }
+            else {
+                if (f) {
+                    eval('f = ' + decodeURIComponent(RegExp.$1) + ';')
+                    this.setFig(w, f);                  
+                }
+                d.write('<script src="//www.live.bbc.co.uk/frameworks/fig/1/fig.js"><'+'/script>');
+            }         
+  
+        },
+                confirm: function(w) {
+            w = w || window;
+            if (w.orb && w.orb.fig && w.orb.fig('no')) {
+               this.setFigCookie(w);
+            }
+            
+            if (w.orb === undefined || w.orb.fig === undefined) {
+                this.setFig(w, {no:1});
+                this.setFigCookie(w);
+            }
+        },
+                setFigCookie: function(w) {
+            w.document.cookie = 'ckns_orb_nofig=1; expires=' + new Date(new Date().getTime() + 1000 * 60 * 10).toGMTString() + ';';
+        },
+                setFig: function(w, f){
+            (function(){var o=f;w.orb=w.orb||{};w.orb.fig=function(k){return (arguments.length)? o[k]:o};})();
+        }
+    }
+})();
+fig.manager.include();
+/*]]>*/</script><script src="./BBC_News_Your_pictures_Racing_files/fig.js"></script><style type="text/css"></style>
+<script type="text/javascript"> fig.manager.confirm(); </script>
+
+ <link rel="stylesheet" type="text/css" href="./BBC_News_Your_pictures_Racing_files/main.css">  <script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+serialise(data)+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEQ=name+"=",ca=window.bbccookies.get().split(";"),i,c;for(i=0;i<ca.length;i++){c=ca[i];while(c.charAt(0)===" "){c=c.substring(1,c.length)}if(c.indexOf(nameEQ)===0){return c.substring(nameEQ.length,c.length)}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString().replace(/"/g,'\\"')+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;eval("o = {"+str+"}");return o}})(); /*]]>*/</script>  <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.6.2/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script>      <script type="text/javascript"> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </script>  <script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/gloader.0.1.6.js"></script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/map.1.7.7.js"></script>
+   <script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/require.js"></script> <script type="text/javascript">  bbcRequireMap = {"jquery-1":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.7.2", "jquery-1.4":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.4", "jquery-1.9":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.9.1", "swfobject-2":"http://static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"http://static.bbci.co.uk/frameworks/demi/0.10.0/sharedmodules/demi-1", "gelui-1":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbci.co.uk/frameworks/istats/0.16.1/modules/istats-1", "relay-1":"http://static.bbci.co.uk/frameworks/relay/0.2.4/sharedmodules/relay-1", "clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"http://static.bbci.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1"}; require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>      <script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/barlesque.js"></script>
+  
+<!--[if IE 6]>
+        <script type="text/javascript">
+        try {
+            document.execCommand("BackgroundImageCache",false,true);
+        } catch(e) {}
+    </script>
+        <style type="text/css">
+        /* Use filters for IE6 */
+        #blq-blocks a {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.56.15/desktop/3.5//img/blq-blocks_white_alpha.png', sizingMethod='image');
+        }
+        .blq-masthead-focus #blq-blocks a,
+        .blq-mast-text-dark #blq-blocks a {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.56.15/desktop/3.5//img/blq-blocks_grey_alpha.png', sizingMethod='image');
+        }
+        #blq-nav-search button span {
+            background-image: none;
+            filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.56.15/desktop/3.5//img/blq-search_grey_alpha.png', sizingMethod='image');
+        }
+        #blq-nav-search button img {
+            position: absolute;
+            left: -999em;    
+        }
+    </style>
+<![endif]-->
+
+<!--[if (IE 7])|(IE 8)>
+    <style type="text/css">
+        .blq-clearfix {
+            display: inline-block;
+        }
+    </style>
+<![endif]-->
+
+<script type="text/javascript">
+     blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "Search");  if (! /bbc\.co\.uk$/i.test(window.location.hostname) ) { document.documentElement.className += ' blq-not-bbc-co-uk'; } </script>
+
+  <script> function oqsSurveyManager(w, flag) { /* We use the pulse survey 70% of the time */ var defaultThreshold = 0.7, usePulseThreshold = (flag === 'OFF')? 1 : defaultThreshold; w.oqs = w.oqs || {}; w.oqs.usePulseThreshold = (w.document.cookie.match(/(?:^|; *)ckns_oqs_usePulseThreshold=([\d.]+)/)? RegExp.$1 : usePulseThreshold); w.oqs.usePulse = (w.Math.random() < w.oqs.usePulseThreshold); if (!w.oqs.usePulse) { /* Please note that this script is included 3 times in the Barlesque code base - one for each Barlesque version */ w.document.write('<script src="http://static.bbci.co.uk/frameworks/barlesque/2.56.15/desktop/3.5/script/vendor/edr.js"><'+'/script>'); } } oqsSurveyManager(window, 'OFF'); </script> 
+    <script type="text/javascript"> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </script>
+    <script type="text/javascript">
+        /* Create BBC.adverts skeleton */
+        if (BBC === undefined) {
+            var BBC = {};
+        }
+        if (BBC.adverts === undefined) {
+            BBC.adverts = {
+                setZone: function () {},
+                configure: function () {},
+                write: function () {},
+                show: function () {},
+                isActive: function () {
+                    return false;
+                },
+                setScriptRoot: function () {},
+                setImgRoot: function () {},
+                getAdvertTag: function () {},
+                getSectionPath: function() {},
+                showPartnerButtons: function() {}
+            };
+        }
+    </script>
+    <!-- BBCDOTCOM template:server-side journalismVariant: true ipIsAdvertiseCombined: true adsEnabled: false showDotcom: true flagpole: ON -->
+                           
+	
+
+
+
+
+		<!-- shared/head -->
+<meta http-equiv="imagetoolbar" content="no">
+<!--[if !(lt IE 6)]>
+   	<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_18/cream/hi/shared/type.css" />
+
+
+		<link rel="stylesheet" type="text/css" media="screen" href="http://news.bbcimg.co.uk/view/3_0_18/cream/hi/shared/global.css" />
+
+
+	<link rel="stylesheet" type="text/css" media="print" href="http://news.bbcimg.co.uk/view/3_0_18/cream/hi/shared/print.css" />
+
+	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 976px)" href="http://news.bbcimg.co.uk/view/3_0_18/cream/hi/shared/mobile.css" />
+	
+
+
+
+<link rel="stylesheet" type="text/css" href="http://news.bbcimg.co.uk/view/3_0_18/cream/hi/shared/components/components.css" />
+
+<![endif]-->
+<!--[if !IE]>-->
+   	<link rel="stylesheet" type="text/css" href="./BBC_News_Your_pictures_Racing_files/type.css">
+
+
+		<link rel="stylesheet" type="text/css" media="screen" href="./BBC_News_Your_pictures_Racing_files/global.css">
+
+
+	<link rel="stylesheet" type="text/css" media="print" href="./BBC_News_Your_pictures_Racing_files/print.css">
+
+	<link rel="stylesheet" type="text/css" media="screen and (max-device-width: 976px)" href="./BBC_News_Your_pictures_Racing_files/mobile.css">
+	
+
+
+
+<link rel="stylesheet" type="text/css" href="./BBC_News_Your_pictures_Racing_files/components.css">
+
+<!--<![endif]-->
+<script type="text/javascript">
+/*<![CDATA[*/
+gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.dom.get("html").addClass("blq-js")}});
+gloader.load(["glow","1","glow.dom"],{onLoad:function(glow){glow.ready(function(){if (glow.env.gecko){var gv = glow.env.version.split(".");for (var i=gv.length;i<4;i++){gv[i]=0;}if((gv[0]==1 && gv[1]==9 && gv[2]==0)||(gv[0]==1 && gv[1]<9)||(gv[0]<1)){glow.dom.get("body").addClass("firefox-older-than-3-5");}}});}});
+
+window.disableFacebookSDK=true;
+if (window.location.pathname.indexOf('+')>=0){window.disableFacebookSDK=true;}
+
+/*]]>*/
+</script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-1" src="./BBC_News_Your_pictures_Racing_files/jquery-1.7.2.js"></script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/core.js" class="gloaded sync"></script>
+
+<script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/locator.js"></script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/widgets.js" class="gloaded sync"></script><link href="./BBC_News_Your_pictures_Racing_files/widgets.css" rel="stylesheet" type="text/css" class="gloaded async">
+
+
+<script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/bbc_fmtj.js"></script>
+
+<script type="text/javascript">
+<!--
+	bbc.fmtj.page = {
+		serverTime: 1385591428000,
+		editionToServe: 'international',
+		queryString: null,
+		section: 'in-pictures',
+		sectionPath: '/In Pictures',
+		siteName: 'BBC News',
+		siteToServe: 'news',
+		siteVersion: 'cream',
+		storyId: '23347210',
+		assetType: 'photo_gallery',
+		uri: '/news/in-pictures-23347210',
+		country: 'ie',
+		masthead: false,
+		adKeyword: null,
+		templateVersion: 'v1_0'
+	}
+-->
+</script>
+<script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/bbc_fmtj_common.js"></script>
+
+
+<script type="text/javascript">$useMap({map:"http://news.bbcimg.co.uk/js/map/map_0_0_33.js"});</script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/map_0_0_33.js"></script>
+
+<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view"]);</script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/view.js" class="gloaded sync"></script>
+
+<script type="text/javascript">$render("livestats-heatmap");</script>
+
+
+<script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/bbc_fmtj_config.js"></script>
+
+
+
+
+<script type="text/javascript">
+    //<![CDATA[
+        require(['jquery-1'], function($){
+            
+            // set up EMP once it's loaded
+            var setUp = function(){
+                // use our own pop out page
+        	    embeddedMedia.setPopoutUrl('/player/emp/2_0_55/popout/pop.stm');
+
+        	    // store EMP's notifyParent function
+        	    var oldNotifyParent = embeddedMedia.console.notifyParent;
+        	    // use our own to add livestats to popout
+        	    embeddedMedia.console.notifyParent = function(childWin){
+        	        oldNotifyParent(childWin);
+        	        // create new live stats url
+                    var liveStatsUrl = bbc.fmtj.av.emp.liveStatsForPopout($('#livestats').attr('src'));
+                    var webBug = $('<img />', {
+                                     id:  'livestats',
+                                     src: liveStatsUrl
+                                 });
+                    // append it to popout
+                    $(childWin.document).find('body').append(webBug);
+                }
+            }
+                
+            // check if console is available to manipulate
+            if(window.embeddedMedia && window.embeddedMedia.console){
+                setUp();
+            }
+            // otherwise emp is still loading, so add event listener
+            else{
+                $(document).bind('empReady', function(){
+                    setUp();
+                });
+            }
+        });
+    //]]>
+</script>
+
+
+		
+	<!-- get BUMP from cdn -->
+    <script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/bump"></script>
+
+<!-- load glow and required modules -->
+<script type="text/javascript">
+    //<![CDATA[
+        gloader.load(['glow', '1', 'glow.dom']);
+    //]]>
+</script>
+
+
+
+	<!-- pull in our emp code -->
+	<script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/emp.js"></script>
+	<!-- pull in compatibility.js -->
+	<script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/compatibility.js"></script>
+
+
+<script type="text/javascript">
+	//<![CDATA[
+	    
+	
+	    
+	        
+	    
+	
+	    
+	        
+	    
+	
+	    // set site specific config
+	    
+	        bbc.fmtj.av.emp.configs.push('news');
+	    
+	    
+	    // when page loaded, write all created emps
+	    glow.ready(function(){
+			if(typeof bbcdotcom !== 'undefined' && bbcdotcom.av && bbcdotcom.av.emp){
+				bbcdotcom.av.emp.configureAll();
+			}
+			embeddedMedia.each(function(emp){
+				emp.set('enable3G', true);
+				emp.setMediator('href', '{protocol}://{host}/mediaselector/5/select/version/2.0/mediaset/{mediaset}/vpid/{id}');						
+			});
+			embeddedMedia.writeAll();
+	        // mark the emps as loaded
+	        bbc.fmtj.av.emp.loaded = true;
+			
+			
+	    });
+	//]]>
+</script>
+<!-- Check for advertising testing -->
+
+<meta name="viewport" content="width = 996">
+
+
+
+        <!-- shared/head_photo_gallery -->
+<!-- THESE STYLESHEETS VARY ACCORDING TO PAGE CONTENT -->
+
+<link rel="stylesheet" type="text/css" media="screen" href="./BBC_News_Your_pictures_Racing_files/photo_gallery.css">
+<link rel="stylesheet" type="text/css" media="screen" href="./BBC_News_Your_pictures_Racing_files/photo_gallery(1).css">
+
+
+<!-- js photoGallery view -->
+<script type="text/javascript">$loadView("0.0",["bbc.fmtj.view.news.photoGallery"]);</script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="demi-1" src="./BBC_News_Your_pictures_Racing_files/demi-1.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="http://open.live.bbc.co.uk/wurfldemi/useragent.jsonp?callback=define&amp;ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F31.0.1650.57%20Safari%2F537.36" src="./BBC_News_Your_pictures_Racing_files/useragent.jsonp"></script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/news-photo-gallery.js" class="gloaded sync"></script>
+
+
+        
+        <!-- #CREAM hi news international include head.inc -->
+                            <!-- is suitable for ads adding isadvertise ... -->
+			
+
+			 
+
+			
+	
+	
+<script type="text/javascript">/*<![CDATA[*/if(bbcdotcom===undefined){var bbcdotcom={}}bbcdotcom.objects=function(d,e,f){var b,c,a;b=d.split(".");if(e===undefined){e="valid"}if(f===undefined){f=window}for(c=0,a=b.length;c<a;c++){if(f[b[c]]===undefined){if(e==="create"){f[b[c]]={}}else{return false}}else{if(typeof f[b[c]]==="function"){if(f[b[c]]()!==undefined){return f[b[c]]()}}}f=f[b[c]]}return f};bbcdotcom.objects("bbcdotcom.config","create");bbcdotcom.config=(function(e,c){var b=e,a=c,d="",f="",g="";return{setAdsEnabled:function(h){b=(b!==0)?h:0},isAdsEnabled:function(){return b},setAnalyticsEnabled:function(h){a=(a!==0)?h:0},isAnalyticsEnabled:function(){return a},setJsPrefix:function(h){d=h},getJsPrefix:function(){return d},setSwfPrefix:function(h){f=h},getSwfPrefix:function(){return f},setCssPrefix:function(h){g=h},getCssPrefix:function(){return g}}}(1,1));bbcdotcom.objects("bbcdotcom.stats","create");if(BBC===undefined){var BBC={}}if(BBC.adverts===undefined){BBC.adverts={setZone:function(){},configure:function(){},write:function(){},show:function(){},isActive:function(){return false},setScriptRoot:function(){},setImgRoot:function(){},getAdvertTag:function(){},getSectionPath:function(){}}};/*]]>*/</script>
+<meta name="application-name" content="BBC">
+<meta name="msapplication-tooltip" content="Explore the BBC, for latest news, sport and weather, TV &amp; radio schedules and highlights, with nature, food, comedy, children&#39;s programmes and much more">
+
+	<meta name="msapplication-starturl" content="http://www.bbc.com/news/?ocid=global-news-pinned-ie9">
+
+<meta name="msapplication-window" content="width=1024;height=768">
+<meta name="msapplication-task" content="name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico">
+<meta name="msapplication-task" content="name=BBC News;action-uri=http://www.bbc.com/news/?ocid=global-news-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico">
+<meta name="msapplication-task" content="name=BBC Sport;action-uri=http://www.bbc.com/sport/0/?ocid=global-sport-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico">
+<meta name="msapplication-task" content="name=BBC Future;action-uri=http://www.bbc.com/future?ocid=global-future-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico">
+<meta name="msapplication-task" content="name=BBC Travel;action-uri=http://www.bbc.com/travel?ocid=global-travel-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico">
+<meta name="msapplication-task" content="name=BBC Weather;action-uri=http://www.bbc.co.uk/weather/?ocid=global-weather-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico">
+
+<!-- BBCCOM Server-side -->
+
+<link href="./BBC_News_Your_pictures_Racing_files/3pt_ads.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/bbccom.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+bbcdotcom.objects('page', 'create', bbcdotcom);
+bbcdotcom.page.edition = '(none)';
+bbcdotcom.page.url = '/news/in-pictures-23347210';
+bbcdotcom.page.zoneFile = '3pt_zone_file';
+bbcdotcom.page.http_host = 'www.bbc.co.uk';
+
+
+/*]]>*/</script>
+<script type="text/javascript">
+/*<![CDATA[*/
+bbcdotcom.config.setAdsEnabled(1);
+/*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/(function(){switch(bbcdotcom.page.url){case"/":case"/default.stm":bbcdotcom.page.url=(bbcdotcom.page.edition==="domestic")?"/1/hi/default.stm":"/2/hi/default.stm";break;case"/sport":case"/sport/":case"/sport/default.stm":bbcdotcom.page.url=(bbcdotcom.page.edition==="domestic")?"/sport1/hi/default.stm":"/sport2/hi/default.stm";break}BBC.adverts.setScriptRoot("http://news.bbcimg.co.uk/js/app/bbccom/0.3.211/");bbcdotcom.config.setJsPrefix("http://news.bbcimg.co.uk/js/app/bbccom/0.3.211");bbcdotcom.config.setSwfPrefix("http://www.bbc.co.uk/shared/swf/bbccom/0.3.211");bbcdotcom.config.setCssPrefix("http://news.bbcimg.co.uk/css/screen/shared/0.3.211");BBC.adverts.setImgRoot("http://news.bbcimg.co.uk/shared/img/bbccom/");BBC.adverts.init({domain:bbcdotcom.page.http_host,location:bbcdotcom.page.url,zoneVersion:bbcdotcom.page.zoneFile,zoneReferrer:document.referrer})}());(function(){if(typeof require!=="undefined"){require({paths:{bbcdotcom:"http://news.bbcimg.co.uk/js/app/bbccom/0.3.211"}})}})();if(BBC.adverts.getV6Gvl3()&&"undefined"!==typeof bbcdotcom.page.bddUseLatestFromTest){document.write(unescape('%3Cscript type="text/javascript" src="http://wwwpreview.test.newsonline.tc.nca.bbc.co.uk/js/app/bbccom/'+bbcdotcom.latest_version+'/advert.js"'))}else{if(BBC.adverts.getV6Gvl3()){document.write(unescape('%3Cscript type="text/javascript" src="http://news.bbcimg.co.uk/js/app/bbccom/0.3.211/advert.js"%3E%3C/script%3E'))}}if(/[?|&]metadata=yes(&|$)/.test(window.location.search)){document.write("http://www.test.bbc.com/wwscripts/metadata?bbcdotcom_asset="+window.location.hostname+window.location.pathname)};/*]]>*/</script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/3pt_zone_file.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="http://emp.bbci.co.uk/emp/worldwide/embed.js?mediaset=journalism-pc" src="./BBC_News_Your_pictures_Racing_files/embed.js"></script><script type="text/javascript" src="http://news.bbcimg.co.uk/js/app/bbccom/0.3.211/advert.js"></script>
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="istats-1" src="./BBC_News_Your_pictures_Racing_files/istats-1.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="swfobject-2" src="./BBC_News_Your_pictures_Racing_files/swfobject-2.js"></script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/list.js"></script><style type="text/css">img.emp-overlay-panel-holding-image {display:none;} .bbc-st-flash-hidden img.emp-overlay-panel-holding-image {display:block;}</style><script type="text/javascript" async="" src="./BBC_News_Your_pictures_Racing_files/em_js"></script><link rel="stylesheet" type="text/css" media="screen" href="./BBC_News_Your_pictures_Racing_files/slim.css"><script type="text/javascript" id="waxCS">var WAX = function () { var _arrInputs; return { getElement: function (i) { return _arrInputs[i]; }, setElement: function(i){ _arrInputs=i; } } }(); function waxGetElement(i) { return WAX.getElement(i); } function coSetPageData(t, d){ if('wax'==t) { WAX.setElement(d);} }</script><script type="text/javascript" id="WAXScript">var WAX = function() { var _parseCriterias = 0; var _parseCriterias = 0; var _eventTypes = 0; var _minStringLen = 0; var _maxStringLen = 0; var _minElementWidth = 0; var _maxElementWidth = 0; var _minElementHeight = 0; var _maxElementHeight = 0;  var _minStringWidth = 0; var _maxStringWidth = 0; var _minStringHeight = 0; var _maxStringHeight = 0;  var _farTextMaxDeltaX = 0; var _farTextMaxDeltaY = 0;  var _minStringLength = 0; var _maxStringLength = 0;  var _docMinHeight = 0;  var _parseTimeOut = 500; var _timedOut = false; var _hasTimeOut = true;  var _arrInputs = {};  var ParseCriterias = { None: 0, EventObjects: 4, VerifyAttributeByAttachedText: 32, IgnoreImages: 64, IgnoreHiddenInputs: 2048, EnableAjaxSupport: 16384, VerifyDocumentHeight: 32768, InputsOnly: 65536, IgnoreFieldSets: 131072, IgnoreForms: 262144  };  var Event = { None: 0, OnClick: 1, OnSubmit: 2, OnMouseDown: 4, OnMouseUp: 8, HREFJavaScriptMethod: 16,  FormAction: 32, Command: 64, HREFPound: 128, Role: 256 };  var InputType = { Unknown: 0, Text: 1, TextArea: 2, Password:3 , Submit: 4, Image: 5, Button: 6, Checkbox: 7, Radio: 8, Reset: 9, File: 10, Hidden: 11, Select: 12, EventObject: 13 };  var ElementType = { Unknown: 0, Label: 1, TableCell: 2, Header: 3, Table: 4, TableBody: 5, TableRow: 6, Input: 7, TextArea: 8, Button: 9, Image: 10, Select: 11, Link: 12, Container: 13, SelectOption: 14, Generic: 15, Form: 16, Comments: 17, FieldSet: 18 };  function Rect(left, top, right, bottom) { this.left = left; this.top = top; this.right = right; this.bottom = bottom; this.getLeft = function getLeft() { return this.left; }, this.getTop = function getTop() { return this.top; }, this.getRight = function getRight() { return this.right; }, this.getBottom = function getBottom() { return this.bottom; }, this.getRect = function getRect() { return this.left + ',' + this.top + ',' + this.right + ',' + this.bottom; } } return {  getElement: function(index) { if( null == _arrInputs ) { return; }  if( index<0 || index>=_arrInputs.length ) { return null; }  return _arrInputs[index]; },  getLangs: function() { var arrLangs = new Array(); var metaTags = window.document.getElementsByTagName("meta"); var sLang = null;  var oDocElement = window.document.documentElement; if( null != oDocElement ) { var sAttribute = oDocElement.getAttribute("lang"); if( null == sAttribute ) { window.document.documentElement.getAttribute("xml:lang"); }  if( null != sAttribute && !( sAttribute=="en" && 2==sAttribute.length) ) { arrLangs.push(sAttribute); }  }  for( var i=0; i<metaTags.length; i++ ) { var oElement = metaTags[i]; if( null == oElement ) { continue; }  var sAttribute = oElement.getAttribute("http-equiv"); if( null != sAttribute ) { if( "content-language" == sAttribute.toLowerCase() ) { sLang = oElement.getAttribute("content");  } }  if( null == sLang ) { sAttribute = oElement.getAttribute("name"); if( null != sAttribute && "language" == sAttribute.toLowerCase() ) { sLang = oElement.getAttribute("content");  } }  if( null == sLang ) { sAttribute = oElement.getAttribute("lang"); }  if( null != sLang ) { arrLangs.push(sLang.toLowerCase()); sLang = null; } } return arrLangs.join(";"); },  Parse: function(args) { var oDomNode = window.document.body;  _arrInputs = null;   _parseCriterias = args[0]; _eventTypes = args[1];  _minStringLength = args[2]; _maxStringLength = args[3];  _minElementWidth = args[4]; _maxElementWidth = args[5]; _minElementHeight = args[6]; _maxElementHeight = args[7];   _minStringWidth = args[8]; _maxStringWidth = args[9]; _minStringHeight = args[10]; _maxStringHeight = args[11];   _docMinHeight = args[12];  _farTextMaxDeltaX = args[13]; _farTextMaxDeltaY = args[14]; if(16==args.length) { _parseTimeOut = args[15];  } else { _parseTimeOut = 500; _hasTimeOut = false; }  return this.getCandidates(oDomNode); },  getCandidates: function(oElement) {   if( typeof oElement == "undefined" ) { return "E_INVALIDARG"; }   var startTime = new Date().getTime();  var oBoundaries = new Rect(Number.MAX_VALUE, Number.MAX_VALUE, 0, 0);    var arrInputsDesc = new Array(); arrInputsDesc.push(0);   var arrInputs = new Array();  this.collectForms(arrInputsDesc, arrInputs);   if( !this.collectInputs(oElement, oBoundaries, arrInputsDesc, arrInputs) ) { return "E_FAIL";  }   var endTime = new Date().getTime(); if( (endTime-startTime) > (_parseTimeOut*2) ) { _timedOut = true; }   var arrLabels = new Array(); arrLabels.push(0); if( !_timedOut ) { this.collectNonInputs(oElement, oBoundaries, arrInputsDesc, arrLabels, arrInputs); if( _timedOut ) { arrLabels = new Array(); arrLabels.push(0); } }    arrInputsDesc[0] = (arrInputsDesc.length-1)/2;  var sDescription = arrInputsDesc.join("#!#");  sDescription = arrInputsDesc[1] = sDescription.length + "#!#" + sDescription;   arrLabels[0] = (arrLabels.length-1)/2;  if( 1==arrLabels.length ) { arrLabels.push("0"); }  _arrInputs = arrInputs; sLabels = arrLabels.join("#!#");  sLabels = arrLabels[1] = sLabels.length + "#!#" + sLabels;  var sAll = sDescription+sLabels;  return ( ((_timedOut && _hasTimeOut) ? "E_TIMEDOUT" : "") + sAll.length.toString() + "#!#" + sAll);  },  collectForms: function(arrInputsDesc, arrInputs) { if( _parseCriterias&ParseCriterias.IgnoreForms ) { return false; }  if( typeof arrInputsDesc == "undefined" || typeof arrInputs == "undefined" ) { return false; }  if( Array != arrInputsDesc.constructor || Array != arrInputs.constructor) { return false;  }   var oForms = window.document.forms;  var elementType = {}; var inputType = {};    var length = oForms.length; for( var i=0; i<length; ++i ) { var oForm = oForms[i];  elementType.value = ElementType.Form; inputType.value = InputType.Unknown;  var oRect = oForm.getBoundingClientRect(); var sInputDesc = this.processInput(oForm, oRect, elementType, inputType);   if( null != sInputDesc ) { arrInputs.push(oForm); arrInputsDesc.push(sInputDesc.length); arrInputsDesc.push(sInputDesc);  }   this.collectFieldSets(oForm, arrInputsDesc, arrInputs); } }, collectFieldSets: function(oElement, arrInputsDesc, arrInputs) { if( _parseCriterias&ParseCriterias.IgnoreFieldSets || _parseCriterias&ParseCriterias.IgnoreForms ) { return true; }  if( typeof oElement == "undefined" || typeof arrInputsDesc == "undefined" || typeof arrInputs == "undefined" ) { return false; }  if( Array != arrInputsDesc.constructor || Array != arrInputs.constructor) { return false;  }  var usingFieldSets = !(ParseCriterias.IgnoreFieldSets==(_parseCriterias&ParseCriterias.IgnoreFieldSets));  var elementType = {}; var inputType = {};   elementType.value = ElementType.FieldSet; inputType.value = InputType.Unknown;   var oFieldSets = oElement.getElementsByTagName("fieldset"); var length = oFieldSets.length; for( var f=0; f<length; ++f ) {  var oFieldSet = oFieldSets[f]; oRect = oFieldSet.getBoundingClientRect(); sInputDesc = this.processInput(oFieldSet, oRect, elementType, inputType); if( null != sInputDesc ) { arrInputs.push(oFieldSet); arrInputsDesc.push(sInputDesc.length); arrInputsDesc.push(sInputDesc);  } }  return true; },  collectInputs: function(oElement, oBoundaries, arrInputsDesc, arrInputs) { if( typeof oElement == "undefined" || typeof oBoundaries == "undefined" ||  typeof arrInputsDesc == "undefined" || typeof arrInputs == "undefined" ) { return false; }  if( Rect != oBoundaries.constructor || Array != arrInputsDesc.constructor || Array != arrInputs.constructor) { return false;  } var maxCombinedParseTime = _parseTimeOut*2; var startTime = new Date().getTime();  var arrElements = oElement.getElementsByTagName("INPUT"); if( typeof arrElements != "undefined" && 0 == arrElements.length ) { arrElements = oElement.getElementsByTagName("input"); } this.processInputs(arrElements, oBoundaries, arrInputsDesc, arrInputs); if( !_timedOut ) { arrElements = oElement.getElementsByTagName("BUTTON"); if( typeof arrElements != "undefined" && 0 == arrElements.length ) { arrElements = oElement.getElementsByTagName("button"); } this.processInputs(arrElements, oBoundaries, arrInputsDesc, arrInputs); } if( !_timedOut ) { arrElements = oElement.getElementsByTagName("SELECT"); if( typeof arrElements != "undefined" && 0 == arrElements.length ) { arrElements = oElement.getElementsByTagName("select"); } this.processInputs(arrElements, oBoundaries, arrInputsDesc, arrInputs); }  var endTime = new Date().getTime(); if( (endTime-startTime) > maxCombinedParseTime ) { _timedOut = true; }  if( !_timedOut && !(_parseCriterias&ParseCriterias.IgnoreImages) && !(_parseCriterias&ParseCriterias.InputsOnly) ) {   this.processInputs(oElement.getElementsByTagName("IMG"), null, arrInputsDesc, arrInputs);  }   var endTime = new Date().getTime(); if( (endTime-startTime) > maxCombinedParseTime ) { _timedOut = true; } var endTime = new Date().getTime(); if( (endTime-startTime) > maxCombinedParseTime ) { _timedOut = true; }  return true; }, collectNonInputs: function(oParent, oBoundaries, arrInputsDesc, arrLabels, arrInputs) { if( typeof oParent == "undefined" || typeof oBoundaries == "undefined" ||  typeof arrInputsDesc == "undefined" || typeof arrLabels == "undefined" || typeof arrInputs == "undefined" ) { return false; }  if( Rect != oBoundaries.constructor || Array != arrInputsDesc.constructor ||  Array != arrLabels.constructor || Array != arrInputs.constructor ) { return false;  }  var matchUsingAttachedText = true; var usingEventObjects = (ParseCriterias.EventObjects==(_parseCriterias&ParseCriterias.EventObjects) ); var verifyAttributeByAttachedText = ( ParseCriterias.VerifyAttributeByAttachedText==(_parseCriterias&ParseCriterias.VerifyAttributeByAttachedText) ); var enableAjaxSupport = ( ParseCriterias.EnableAjaxSupport==(_parseCriterias&ParseCriterias.EnableAjaxSupport) );  if( !matchUsingAttachedText && !usingEventObjects && !verifyAttributeByAttachedText ) { return true; } var eventTypes = (usingEventObjects ? _eventTypes : 0); var oRectElement = new Rect(0, 0, 0, 0);  var isFormCollection = false; var oItems = oParent.getElementsByTagName("*"); if( typeof oItems == "undefined" || 0==oItems.length ) { oItems = oParent.all; if( typeof oItems == "undefined" || 0==oItems.length ) { return false; } }  var elementType = {}; var inputType = {};   var startTime = new Date().getTime(); var i = 0; for( i=0; i<oItems.length; ++i ) {  if( !(i%150) ) { var endTime = new Date().getTime(); if( (endTime - startTime)>_parseTimeOut ) { _timedOut = true; break; } } var oElement = oItems[i]; if( typeof oElement == "undefined" ) { continue; }  elementType.value = ElementType.Unknown; inputType.value = InputType.Unknown;  if( !this.getElementType(oElement, elementType, inputType) && ElementType.Unknown != elementType.value ) { continue; }   if( ElementType.Input==inputType.value || ElementType.Select==elementType.value ||  ElementType.Button==inputType.value || ElementType.Image==elementType.value || ElementType.SelectOption==elementType.value || ElementType.Form==elementType.value || InputType.File==inputType.value || InputType.Submit==inputType.value ) { continue; }  var oRect = oElement.getBoundingClientRect();  if( InputType.Unknown == inputType.value && usingEventObjects ) { if( 0!=eventTypes && this.hasEventHandler(eventTypes, oElement) ) { inputType.value = InputType.EventObject; } }  if( InputType.Unknown != inputType.value ) { var width = oRect.right - oRect.left; var height = oRect.bottom - oRect.top; var outOfBounds = ( width<_minElementWidth || width>_maxElementWidth ||  height<_minElementHeight || height>_maxElementHeight ); if( outOfBounds ) {  if( _parseCriterias&ParseCriterias.IgnoreHiddenInputs ) { continue; }  if( 0!=width && 0!=height ) { continue; } }  if( InputType.TextArea == inputType.value || InputType.EventObject == inputType.value )  { var sInputDesc = this.processInput(oElement, oRect, elementType, inputType);  if( null != sInputDesc ) { if( null != oBoundaries ) {  this.expandRect(oRect, oBoundaries); }  arrInputs.push(oElement); arrInputsDesc.push(sInputDesc.length); arrInputsDesc.push(sInputDesc);  }  } } else if( matchUsingAttachedText || verifyAttributeByAttachedText ) {  var ptX = ((oRect.right-oRect.left)/2)+oRect.left; var ptY = ((oRect.bottom-oRect.top)/2)+oRect.top;  if( !(ptX>=oBoundaries.left && ptX<=oBoundaries.right && ptY>=oBoundaries.top && ptY<=oBoundaries.bottom) ) { continue; }  var sText = this.getElementText(oElement, oRect); if( null == sText ) { var oFirstChild = oElement.firstChild; if( null != oFirstChild ) { sText = this.getElementText(oFirstChild, oRect);  } }  if( null != sText ) {  sText = sText.trim(); var length = sText.length;  var sLabel = ""; if( length>0 ) { sLabel = "{" + elementType.value + ",0},{" + oRect.left + "," + oRect.top + "," + oRect.right + "," + oRect.bottom + "}"; sLabel+= "#!#" + length + "#!#" + sText;  } else { sLabel = "{" + elementType.value + ",0},{" + oRect.left + "," + oRect.top + "," + oRect.right + "," + oRect.bottom + "}"; sLabel+= "#!#0";  }  arrLabels.push(sLabel.length);  arrLabels.push(sLabel);  }  }  } return true; }, processInputs : function(oInputs, oBoundaries, arrInputsDesc, arrInputs) {   if( typeof oInputs == "undefined" || typeof arrInputsDesc == "undefined" || typeof arrInputsDesc == "arrInputs" ) { return false; }   if( ( oBoundaries!=null && Rect != oBoundaries.constructor ) || Array != arrInputsDesc.constructor || Array != arrInputs.constructor ) { return false;  }  var length = oInputs.length; if( 0 == length ) { return true; }  var ignoreHiddenInputs = (ParseCriterias.IgnoreHiddenInputs==(_parseCriterias&ParseCriterias.IgnoreHiddenInputs));  var startTime = new Date().getTime(); var i = 0; for (i = 0; i<length; ++i) {  if( !(i%150) ) { var endTime = new Date().getTime(); if( (endTime - startTime)>_parseTimeOut ) { _timedOut = true; break; } } var oElement = oInputs[i]; var oRect = oElement.getBoundingClientRect();  if( !this.IsValidElement(oElement, oRect, ignoreHiddenInputs) ) {  continue; }  var elementType = {}; var inputType = {}; if( !this.getElementType(oElement, elementType, inputType) || InputType.Checkbox == inputType.value || ElementType.SelectOption == elementType.value ) {  continue; }  var sInputDesc = this.processInput(oElement, oRect, elementType, inputType);  if( null != sInputDesc ) { if( null != oBoundaries ) {  this.expandRect(oRect, oBoundaries); }   arrInputs.push(oElement);  arrInputsDesc.push(sInputDesc.length); arrInputsDesc.push(sInputDesc); } }  return true; }, getElementText: function(oElement, oRect) {  if( typeof oElement == "undefined" || typeof oRect == "undefined" ) { return null; }  if( ClientRect != oRect.constructor ) { return null; }  var width = oRect.right-oRect.left; var height = oRect.bottom-oRect.top;  if( width<_minStringWidth || width>_maxStringWidth ||  height<_minStringHeight || height>_maxStringHeight ) { return null; }  var innerText = oElement.innerText; if( null == innerText ) { return null; }  innerText = innerText.trim();  var length = innerText.length; if( length<_minStringLength || length>_maxStringLength ) { return null; }  return innerText;  }, processInput: function(oElement, oRect, elementType, inputType) {  if( typeof oElement == "undefined" || typeof oRect == "undefined" ) { return null; }  if( ClientRect != oRect.constructor ) { return null; }  var ajaxSupport = ( ParseCriterias.EnableAjaxSupport==(_parseCriterias&ParseCriterias.EnableAjaxSupport) );  var isImage = ( ParseCriterias.IgnoreImages==(_parseCriterias&ParseCriterias.IgnoreImages) ); var outerHTML = null;  if( ElementType.Form!=elementType.value && ElementType.FieldSet!=elementType.value ) { outerHTML = oElement.outerHTML; } else if (InputType.Select == inputType.value) {  outerHTML = "<select";  var oAttributes = oElement.attributes; if( null != oAttributes ) {  var length = oAttributes.length;  for( i=0; i<length; ++i ) { var oAttrPair = oAttributes[i]; if( typeof oAttrPair == "undefined" ) { continue; }  outerHTML+= " " + oAttrPair.name + "=\"" + oAttrPair.value + "\""; }  }  outerHTML += "></select>"; }  if( null == outerHTML && (InputType.EventObject==inputType.value || isImage) ) { return null; }  var innerText = "";  if( ElementType.Button==elementType.value ) { innerText = oElement.innerText; if( null == innerText ) { innerText = oElement.getAttribute("value"); } }  else if( InputType.Select==inputType.value ) { var arrOptions = new Array(); var length = 0;   var items = oElement.options; if( typeof items != "undefined" ) { length = items.length;  var i = 0; for( i=0; i<length; ++i ) { innerText = items[i].innerText; if( null == innerText || 0 == innerText.length ) { arrOptions.push("<!>#<!>"); } else { innerText = innerText.trim(); arrOptions.push(innerText);  } }   if( arrOptions.length >0 ) { var sOptions = "\"" + arrOptions.join("\":\"") + "\"";  sOptions.replace("<!>#<!>", " ");  innerText = arrOptions.length + "#!#" + sOptions; } }  if( 0==length ) { innerText = "0#!#"; }  }  else if( InputType.Submit==inputType.value ) { innerText = oElement.getAttribute("value"); if( null == innerText ) { innerText = oElement.innerText; } } else if( InputType.EventObject==inputType.value ) { var oFirstChild = oElement.firstChild; if( null != oFirstChild ) { innerText = oFirstChild.innerText; } if( null == innerText || 0 == innerText.length ) { innerText = oElement.innerText; }  if( null != innerText ) { innerText = innerText.trim(); } } else if( ElementType.Link == elementType.value ) { innerText = oElement.innerText; } else if( InputType.Radio == inputType.value && (null == innerText || 0 == innerText.length) ) { var oNextSibling = oElement.nextSibling; if( null != oNextSibling ) { innerText = oNextSibling.innerText; } }  var arrDesc = this.getInputDescription(oElement, oRect, elementType, inputType); if( null == arrDesc ) { return null; }  if( null == innerText ) { arrDesc.push("0"); } else {  innerText = innerText.trim(); var length = innerText.length; if( 0==length ) { arrDesc.push("0"); }  else { arrDesc.push(innerText.length); arrDesc.push(innerText);  }  }  if( null == outerHTML ) { arrDesc.push("0"); } else {  var length = outerHTML.length; if( 0==length ) { arrDesc.push("0"); }  else {  arrDesc.push(outerHTML.length); arrDesc.push(outerHTML);  }  }  return arrDesc.join("#!#"); },  getInputDescription: function(oElement, oRect, elementType, inputType) {  if( typeof oElement == "undefined" || typeof oRect == "undefined" ) { return null; } if( ClientRect != oRect.constructor ) { return null; }  var arrItems = new Array(); arrItems.push("{" + elementType.value + "," + inputType.value + "},{" + oRect.left + "," + oRect.top + "," + oRect.right + "," + oRect.bottom + "}");  var oAttributes = oElement.attributes; if( null==oAttributes ) { arrItems.push("0"); } else { var length = oAttributes.length;  arrItems.push(length); if( length > 0 ) {  var sAttrs = ""; var i = 0; for (i = 0; i < length; ++i) { var oAttrPair = oAttributes[i]; if (typeof oAttrPair == "undefined") { continue; } var sValue = oAttrPair.value; var sValueLen = sValue.length; if (0 == sValueLen) { continue; }   if (sValueLen > 128) { sValue = sValue.substring(sValueLen - 128); } if ("id" == oAttrPair.name) { if (sAttrs.length > 0) { var sTemp = "\"" + oAttrPair.name + "\":\"" + sValue + "\"," + sAttrs; sAttrs = sTemp; } else { sAttrs = "\"" + oAttrPair.name + "\":\"" + sValue + "\""; } continue; } if (sAttrs.length > 0) { sAttrs += ",\""; } else { sAttrs += "\""; } sAttrs += oAttrPair.name + "\":\"" + sValue + "\""; }  arrItems.push(sAttrs.length); arrItems.push(sAttrs); } } return arrItems; },  expandRect: function(oElementRect, oBoundaries) {  if( null == oBoundaries ) { return true; }  if( typeof oElementRect == "undefined" || typeof oBoundaries == "undefined" ) { return false; }   if( ClientRect != oElementRect.constructor || Rect != oBoundaries.constructor ) { return false;  } if( oElementRect.left<oBoundaries.left ) { oBoundaries.left = ( (oElementRect.left-_farTextMaxDeltaX>0) ? oElementRect.left-_farTextMaxDeltaX : 0);  } if( oElementRect.top<oBoundaries.top ) { oBoundaries.top = ( (oElementRect.top-_farTextMaxDeltaY>0) ? oElementRect.top-_farTextMaxDeltaY : 0);  } if( oElementRect.right>oBoundaries.right ) { oBoundaries.right = oElementRect.right+_farTextMaxDeltaX; } if( oElementRect.bottom>oBoundaries.bottom ) { oBoundaries.bottom = oElementRect.bottom+_farTextMaxDeltaY; }  return true;  }, getElementType: function(oElement, elementType, inputType) {  elementType.value = ElementType.Unknown; inputType.value = InputType.Unknown;   if( typeof oElement == "undefined" ) { return false; }  var isInputType = false;  var nodeName = oElement.nodeName.toUpperCase(); var length = nodeName.length;  if( 1==length ) { if( nodeName == "A" ) { elementType.value = ElementType.Link; } else if( nodeName == "B" ) { elementType.value = ElementType.Label;  }  }  else if( 2==length ) {  if( nodeName == "TD" || nodeName == "TH" ) { elementType.value = ElementType.TableCell; } if ( nodeName == "TR" ) { elementType.value = ElementType.TableRow; } if ( nodeName == "EM" ) { elementType.value = ElementType.Header; } else if( nodeName == "H1" || nodeName == "H2" || nodeName == "H3" ||  nodeName == "H4" || nodeName == "H5" || nodeName == "H6" ) { elementType.value = ElementType.Header; } } else if( 3==length ) { if ( nodeName == "DIV" ) { elementType.value = ElementType.Container; } else if( nodeName == "IMG" ) { elementType.value = ElementType.Image; isInputType = true; }  } else if( 4==length ) { if ( nodeName == "SPAN" ) { elementType.value = ElementType.Container; } else if ( nodeName == "FORM" ) { inputType.value = InputType.Unknown; elementType.value = ElementType.Form; }   } else if( 5==length ) {  if( nodeName == "INPUT" ) { elementType.value = ElementType.Input; isInputType = true; } else if( nodeName == "LABEL" ) { elementType.value = ElementType.Label; } } else if( 6==length ) { if( nodeName == "OPTION" ) { elementType.value = ElementType.SelectOption; } else if( nodeName == "SELECT" ) { elementType.value = ElementType.Select; inputType.value = InputType.Select; } else if( nodeName == "BUTTON" ) { elementType.value = ElementType.Button; this.getElementInputType(oElement, inputType); if( InputType.Submit != inputType.value ) { inputType.value = InputType.Button; } } else if( nodeName == "STRONG" ) { elementType.value = ElementType.Header; }  } else if( 8==length ) { if( nodeName == "TEXTAREA" ) { elementType.value = ElementType.TextArea; inputType.value = InputType.TextArea; } else if( nodeName == "FIELDSET" ) { inputType.value = InputType.Unknown; elementType.value = ElementType.FieldSet;  }  }  if( ElementType.Unknown == elementType.value ) { elementType.value = ElementType.Generic; }  if( true == isInputType ) { this.getElementInputType(oElement, inputType); if( ElementType.Image==elementType.value && InputType.Submit!=inputType.value ) { inputType.value = InputType.Image; } }  return true; },  getElementInputType: function(oElement, inputType) { inputType.value = InputType.Unknown; if( typeof oElement == "undefined" ) { return false; }  var sType = oElement.getAttribute("type"); if( null == sType || 0 == sType.length ) { inputType.value = InputType.Text; return true;  }  inputType.value = InputType.Text; sType = sType.toUpperCase();  if( sType == "PASSWORD" ) { inputType.value = InputType.Password; } else if( sType == "SUBMIT" ) { inputType.value = InputType.Submit; } else if( sType == "IMAGE" ) { inputType.value = InputType.Image; } else if( sType == "BUTTON" ) { inputType.value = InputType.Button; } else if( sType == "CHECKBOX" ) { inputType.value = InputType.Checkbox; } else if( sType == "RADIO" ) { inputType.value = InputType.Radio; } else if( sType == "RESET" ) { inputType.value = InputType.Reset; } else if( sType == "FILE" ) { inputType.value = InputType.File; } else if( sType == "HIDDEN" ) { inputType.value = InputType.Hidden; } else {  inputType.value = InputType.Text; }   return true;  },  IsValidElement: function(oElement, oRect, bIgnoreHiddenInputs) {  if( typeof oElement == "undefined" || typeof oRect == "undefined" || ClientRect != oRect.constructor ) { return false; }  var nWidth = oRect.right - oRect.left; var nHeight = oRect.bottom - oRect.top;  if( 0 == nWidth && 0 == nHeight ) { return (bIgnoreHiddenInputs?false:true);  }  if( nWidth<_minElementWidth || nWidth>_maxElementWidth || nHeight<_minElementHeight || nHeight>_maxElementHeight ) { return false; }  var valid = true; try { var sType = oElement.getAttribute("type"); if( null != sType ) { if( sType == "hidden" ) { valid = false; } } } catch(err) {}   return valid; },  hasEventHandler: function(eventType, oElement) {  if( 0 == eventType || typeof oElement == "undefined") { return false; }  if( eventType&Event.OnClick ) { if( null != oElement.getAttribute("onclick") ) { return true; } }  if( eventType&Event.OnSubmit ) { if( null != oElement.getAttribute("onsubmit") ) { return true; } }  if( eventType&Event.OnMouseDown ) { if( null != oElement.getAttribute("onmousedown") ) { return true; } }  if( eventType&Event.OnMouseUp ) { if( null != oElement.getAttribute("onmouseup") ) { return true; } }  if( eventType&Event.HREFJavaScriptMethod || eventType&Event.HREFPound ) { var handler = oElement.getAttribute("href");  if( null != handler ) { handler = handler.toLowerCase(); if( 0 == handler.indexOf("javascript") ) { return true; }  if( 0 == handler.indexOf("#") ) { return true; }  } }  if( eventType&Event.Command ) { if( null != oElement.getAttribute("command") ) { return true; } }  if( eventType&Event.FormAction ) { if( null != oElement.getAttribute("formaction") ) { return true; } } if( eventType&Event.Role ) { var handler = oElement.getAttribute("role");  if( null != handler ) { handler = handler.toLowerCase(); if( 0 == handler.indexOf("button") ) { return true; } } }  return false; } };} ();function waxGetLangs() { return WAX.getLangs();}function waxGetElement(index) { if( null == index ) { return; }  return WAX.getElement(index);}function waxGetCandidates(args) { if (Array != args.constructor || ( 15!=args.length && 16!=args.length) ) { return "E_INVALIDARG"; }  return WAX.Parse(args);}</script></head><body class="news disable-wide-advert bbccom_ads_embedded bbccom_slot_wallpaper"><div id="gnlAnalyticsEnabled" class="bbccom_display_none"></div>
+
+
+    
+        
+
+	
+
+
+        
+
+<script type="text/javascript">
+	if(typeof BBC.adverts != 'undefined' && typeof BBC.adverts.setPageVersion != 'undefined'){
+		BBC.adverts.setPageVersion('(none)');
+	}
+</script>
+
+
+    
+
+        		<!-- hi/news/head_last.inc -->
+
+<link rel="stylesheet" type="text/css" media="screen" href="./BBC_News_Your_pictures_Racing_files/skin.css">
+
+
+<link rel="apple-touch-icon" href="http://news.bbcimg.co.uk/img/1_0_3/cream/hi/news/iphone.png">
+<script type="text/javascript">
+    bbcRequireMap['module/weather'] = '/inc/specials/cream/hi/news/personalisation/weather';
+    bbcRequireMap['module/local'] = '/inc/specials/cream/hi/news/personalisation';
+    bbcRequireMap['translation'] = 'module/translations/en-GB';
+    require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 });
+</script>
+<script type="text/javascript">
+
+
+
+require(['jquery-1'], function(jQuery) {
+    jQuery.ajaxSetup({cache: true})
+});
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+    $(function() {
+        istats.track('external', {region: $('.story-body'), linkLocation : 'story-body'});
+        istats.track('external', {region: $('.story-related .related-links'), linkLocation : 'related-links'});
+        istats.track('external', {region: $('.story-related .newstracker-list'), linkLocation : 'newstracker'});
+    });
+});
+
+</script>
+
+
+
+
+
+	
+    		
+		
+	
+    	
+   
+
+<!-- CPS COMMENT STATUS: false -->
+
+
+	   <!--Rendered by nolapps593-6007 -->
+	   <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+	   <meta name="DCTERMS.created" content="2013-07-18T09:04:00+00:00">
+	   <meta name="DCTERMS.modified" content="2013-07-18T09:04:00+00:00">
+    
+
+        	    <!--[if lte IE 6]><body class="news ie disable-wide-advert"><![endif]-->
+    <!--[if IE 7]><body class="news ie7 disable-wide-advert"><![endif]-->
+    <!--[if IE 8]><body class="news ie8 disable-wide-advert"><![endif]-->
+    <!--[if !IE]>--><!--<![endif]-->
+	
+
+
+<div class="livestats-web-bug" id="livestats-web-bug-tag"><img alt="" id="livestats" src="./BBC_News_Your_pictures_Racing_files/o.gif"></div>
+
+<script type="text/JavaScript">
+	var referrer = document.referrer;
+
+	var livestatsBug = "<img alt='' id='livestats' src='http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_Story~RS~i~RS~23347210~RS~p~RS~101115~RS~a~RS~International~RS~u~RS~/news/in-pictures-23347210~RS~r~RS~"+referrer+"~RS~q~RS~~RS~z~RS~28~RS~'>";
+
+
+	document.getElementById('livestats-web-bug-tag').innerHTML = livestatsBug;
+</script>
+
+
+<noscript>
+&lt;div class="livestats-web-bug"&gt;&lt;img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_Story~RS~i~RS~23347210~RS~p~RS~101115~RS~a~RS~International~RS~u~RS~/news/in-pictures-23347210~RS~q~RS~~RS~z~RS~28~RS~"/&gt;&lt;/div&gt;
+</noscript>
+        
+	
+    <!-- BBCDOTCOM body first include -->
+    
+
+<script type="text/javascript">BBC.adverts.write("wallpaper",false);</script><script type="text/javascript" src="http://ad.doubleclick.net/N4817/adj/bbccom.live.site.news/news_inpictures_content;slot=wallpaper;sz=1x1;sectn=news;ctype=content;news=default;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=www.google.ie;rsi=;headline=yourpictures;asset_type=photo_gallery;story_id=23347210;keyword=;tile=1;ord=12300768726022?"></script>
+<script type="text/javascript">/*<![CDATA[*/BBC.adverts.wallpaperBodyTag=document.getElementsByTagName("body");BBC.adverts.wallpaperATag=document.getElementsByTagName("a");if("undefined"!=typeof BBC.adverts.wallpaperATag&&"undefined"!=typeof BBC.adverts.wallpaperATag[0]&&"undefined"!=typeof BBC.adverts.wallpaperBodyTag&&"undefined"!=typeof BBC.adverts.wallpaperBodyTag[0]&&-1!==BBC.adverts.wallpaperATag[0].href.indexOf("http://ad.doubleclick.net")){BBC.adverts.wallpaperBodyTag[0].removeChild(BBC.adverts.wallpaperATag[0])};/*]]>*/</script>
+
+
+	
+	
+
+       <!-- BBCDOTCOM body first spectrum -->
+     <!-- ISTATS -->
+
+
+
+    
+
+
+
+
+
+
+ <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=news.in_pictures.photo_gallery.23347210.page&cps_asset_id=23347210&page_type=photo_gallery&section=in-pictures&app_version=6.2.162-RC3&first_pub=2013-07-18T09:04:00+00:00&last_editorial_update=2013-07-18T09:04:00+00:00&title=Your+pictures%3A+Racing&comments_box=false&cps_media_type=&cps_media_state=&by_nation=&app_type=web&ml_name=SSI&ml_version=0.16.1&language=en-GB'; if (window.istats_countername) { istatsTrackingUrl = istatsTrackingUrl.replace(/([?&]name=)[^&]+/ig, '$1' + istats_countername); } (function() { if ( /\bIDENTITY=/.test(document.cookie) ) { istatsTrackingUrl += '&bbc_identity=1'; } var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/)||[]).pop() || ''; istatsTrackingUrl += '&bbc_mc=' + (c? 'ad'+c.charAt(0)+'ps'+c.charAt(1)+'pf'+c.charAt(2) : 'not_set'); if ( /\bckns_policy=\d\d0/.test(document.cookie) ) { istatsTrackingUrl += '&ns_nc=1'; } var screenWidthAndHeight = 'unavailable'; if (window.screen && screen.width && screen.height) { screenWidthAndHeight = screen.width + 'x' + screen.height; } istatsTrackingUrl += ('&screen_resolution=' + screenWidthAndHeight); istatsTrackingUrl += '&blq_s=3.5&blq_r=3.5&blq_v=journalism-worldwide'; })(); /*]]>*/</script>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ (function() { window.istats || (istats = {}); var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1), hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1), hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash), runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough && !istats._linkTracked; if (runSitestat && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); /*]]>*/</script> <noscript>&lt;p style="position: absolute; top: -999em;"&gt;&lt;img src="//sa.bbc.co.uk/bbc/bbc/s?name=news.in_pictures.photo_gallery.23347210.page&amp;amp;cps_asset_id=23347210&amp;amp;page_type=photo_gallery&amp;amp;section=in-pictures&amp;amp;app_version=6.2.162-RC3&amp;amp;first_pub=2013-07-18T09:04:00+00:00&amp;amp;last_editorial_update=2013-07-18T09:04:00+00:00&amp;amp;title=Your+pictures%3A+Racing&amp;amp;comments_box=false&amp;amp;cps_media_type=&amp;amp;cps_media_state=&amp;amp;by_nation=&amp;amp;app_type=web&amp;amp;ml_name=SSI&amp;amp;ml_version=0.16.1&amp;amp;language=en-GB&amp;amp;blq_s=3.5&amp;amp;blq_r=3.5&amp;amp;blq_v=journalism-worldwide" height="1" width="1" alt="" /&gt;&lt;/p&gt;</noscript> <!-- End iStats (UX-CMC) -->   <div id="blq-global"> <div id="blq-pre-mast" xml:lang="en-GB"> <!-- Pre mast --> <!-- BBCDOTCOM leaderboard template:server-side journalismVariant: true ipIsAdvertiseCombined: true adsEnabled: false showDotcom: true flagpole: ON conf->showAdAboveBlq: true showAdAboveBlq: true blqLeaderboardAd: true  -->
+ </div> </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <div id="bbccookies-prompt" class="bbccookies-w"> <h2> Cookies on the BBC website </h2> <p> We use cookies to ensure that we give you the best experience on our website.<span class="bbccookies-international-message"> We also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can <a href="/privacy/cookies/managing/cookie-settings.html">change your cookie settings</a> at any time. </p> <ul> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> ]]></script> <script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var i=document,b=i.getElementById("blq-pre-mast"),f=i.getElementById("blq-global"),h=i.getElementById("blq-container"),c=i.getElementById("blq-bbccookies-tmpl"),a,g,e;if(b&&i.createElement){a=i.createElement("div");a.id="bbccookies";e=c.innerHTML;e=e.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=e;if(f){f.insertBefore(a,b)}else{h.insertBefore(a,b)}g=i.getElementById("bbccookies-continue-button");g.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}}})(); /*]]>*/</script>  <div id="blq-masthead" class="blq-clearfix blq-mast-bg-transparent-light blq-lang-en-GB blq-ltr"> <span id="blq-mast-background"><span></span></span>  <div id="blq-mast" class="blq-rst">  <div id="blq-mast-bar" class="blq-masthead-container blq-journalism-worldwide"> <div id="blq-blocks"> <a href="http://www.bbc.co.uk/" hreflang="en-GB"> <abbr title="British Broadcasting Corporation" class="blq-home"> <img src="./BBC_News_Your_pictures_Racing_files/blq-blocks_grey_alpha.png" alt="BBC" width="84" height="24"> </abbr> </a> </div> <div id="blq-acc-links"> <h2 id="page-top">Accessibility links</h2> <ul>  <li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#main-content">Skip to content</a></li>  <li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#blq-local-nav">Skip to local navigation</a></li>  <li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </div> <div id="blq-sign-in" class="blq-gel">  </div> <div id="blq-nav" role="navigation"> <h2>BBC navigation</h2>     <ul id="blq-nav-main">   <li id="blq-nav-news"> <a href="http://www.bbc.com/news/">News</a> </li>    <li id="blq-nav-sport"> <a href="http://www.bbc.co.uk/sport/">Sport</a> </li>    <li id="blq-nav-weather"> <a href="http://www.bbc.co.uk/weather/">Weather</a> </li>    <li id="blq-nav-capital"> <a href="http://www.bbc.com/capital/">Capital</a> </li>    <li id="blq-nav-culture"> <a href="http://www.bbc.com/culture/">Culture</a> </li>    <li id="blq-nav-shop"> <a href="http://shop.bbc.com/">Shop</a> </li>    <li id="blq-nav-tv"> <a href="http://www.bbc.co.uk/tv/">TV</a> </li>    <li id="blq-nav-radio"> <a href="http://www.bbc.co.uk/radio/">Radio</a> </li>    <li id="blq-nav-more"> <a href="http://www.bbc.co.uk/a-z/">More…</a> </li>   </ul>   <div id="blq-nav-search"> <form method="get" action="http://search.bbc.co.uk/search" accept-charset="utf-8" id="blq-search-form" role="search"> <div>  <input type="hidden" name="go" value="toolbar">  <input type="hidden" value="http://www.bbc.co.uk/news/in-pictures-23347210" name="uri">    <input type="hidden" name="scope" value="news">  <label for="blq-search-q" class="blq-hide">Search term:</label> <input id="blq-search-q" type="text" name="q" value="" maxlength="128" placeholder="Search" autocomplete="off"> <button id="blq-search-btn" type="submit"><span><img src="./BBC_News_Your_pictures_Racing_files/blq-search_grey_alpha.png" width="13" height="13" alt="Search"></span></button> </div> </form> </div>  </div> </div> </div> <div id="blq-panel" class="blq-rst" style="display: none;"> <div id="blq-panel-more" class="blq-masthead-container  blq-clearfix" xml:lang="en-GB" dir="ltr" style="display: none;"> <div class="blq-panel-container panel-paneltype-more"> <div class="panel-header"> <h2> <a href="http://www.bbc.co.uk/a-z/">  More…  </a> </h2>  <a href="http://www.bbc.co.uk/a-z/" class="panel-header-links panel-header-link">Full A-Z<span class="blq-hide"> of BBC sites</span></a>  </div> <div class="panel-component panel-links">       <ul>   <li> <a href="http://www.bbc.co.uk/cbbc/">CBBC</a> </li>    <li> <a href="http://www.bbc.co.uk/cbeebies/">CBeebies</a> </li>    <li> <a href="http://www.bbc.co.uk/comedy/">Comedy</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/food/">Food</a> </li>    <li> <a href="http://www.bbc.co.uk/history/">History</a> </li>    <li> <a href="http://www.bbc.co.uk/learning/">Learning</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/music/">Music</a> </li>    <li> <a href="http://www.bbc.co.uk/science/">Science</a> </li>    <li> <a href="http://www.bbc.co.uk/nature/">Nature</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/local/">Local</a> </li>    <li> <a href="http://www.bbc.co.uk/travelnews/">Travel News</a> </li>   </ul>   </div> </div> </div> <div id="blq-panel-promo" class="blq-masthead-container"></div> </div></div> <div id="blq-container-outer" class="blq-journalism-worldwide blq-ltr">  <div id="blq-container" class="blq-lang-en-GB blq-dotcom"> <div id="blq-container-inner" xml:lang="en-GB">   <div id="blq-main" class="blq-clearfix">   
+	
+
+                        		    	
+		<div class="in-pictures  has-no-ticker ">
+			<div id="header-wrapper">
+
+			  
+    		      			      				  <h2 id="header">
+    			      	            <a rel="index" href="http://www.bbc.co.uk/news/"><img alt="BBC News" src="./BBC_News_Your_pictures_Racing_files/news-blocks.gif"></a>
+    	                	            	    	            		<span class="section-title">In Pictures</span>
+    	            	    	            		   		      				  </h2>
+    			  			  
+			  
+		        
+
+			  	            <div id="blq-local-nav">
+ 	            <ul id="nav" class="nav">
+                	
+        	        		                	
+        	        		<li class="first-child selected"><a href="http://www.bbc.co.uk/news/">Home</a></li>
+        		        		                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/uk/">UK</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/world/africa/">Africa</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/world/asia/">Asia</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/world/europe/">Europe</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/world/latin_america/">Latin America</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/world/middle_east/">Mid-East</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/world/us_and_canada/">US &amp; Canada</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/business/">Business</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/health/">Health</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/science_and_environment/">Sci/Environment</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/technology/">Tech</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/entertainment_and_arts/">Entertainment</a></li>
+                            	
+        	        	        	
+        	            	<li><a href="http://www.bbc.co.uk/news/10462520">Video</a></li>
+                            </ul> 
+        
+	    	      <ul id="sub-nav" class="nav"> 
+	        	        			        	        	
+	        		            	<li class="first-child "><a href="http://www.bbc.co.uk/news/magazine/">Magazine</a></li>
+	            	        	        		        	
+	        		        		<li class="selected"><a href="http://www.bbc.co.uk/news/in_pictures/">In Pictures</a></li>
+	            	        	        		        	
+	        		            	<li><a href="http://www.bbc.co.uk/news/also_in_the_news/">Also in the News</a></li>
+	            	        	        		        	
+	        		            	<li><a href="http://www.bbc.co.uk/news/blogs/the_editors/">Editors' Blog</a></li>
+	            	        	        		        	
+	        		            	<li><a href="http://www.bbc.co.uk/news/have_your_say/">Have Your Say</a></li>
+	            	        	        		        	
+	        		            	<li><a href="http://www.bbc.co.uk/news/world_radio_and_tv/">World News TV</a></li>
+	            	        	        		        	
+	        		            	<li><a href="http://www.bbc.co.uk/worldserviceradio">World Service Radio</a></li>
+	            	        	        		        	
+	        		            	<li><a href="http://www.bbc.co.uk/news/special_reports/">Special Reports</a></li>
+	            	        	      </ul> 
+	    	</div>
+
+			  
+	        </div>
+	        <!-- START CPS_SITE CLASS: international -->
+	        <div id="content-wrapper" class="international">
+
+					<div class="advert">
+													
+							<div class="bbccom_advert_placeholder">
+								<script type="text/javascript">$render("advert","advert-leaderboard");</script>
+							</div>
+							<script type="text/javascript">$render("advert-post-script-load");</script>
+							
+											</div>
+                                            <div id="bbccom_custom_branding">
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if(typeof bbcdotcom.objects('bbcdotcom.branding.init') === 'function') {
+            bbcdotcom.branding.init(BBC.adverts.getZoneData().zone, BBC.adverts.getAdKeyword());
+            bbcdotcom.branding.write();
+        }
+        /*]]>*/
+    </script>
+	<div class="bbccom_advert_placeholder">
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        $render("advert","advert-sponsor-subsection");
+        /*]]>*/
+    </script>
+</div>
+</div>
+<script type="text/javascript">
+        /*<![CDATA[*/
+	$render("advert-post-script-load");
+        /*]]>*/
+</script>
+                    
+	            <!-- START CPS_SITE CLASS: photo_gallery -->
+	            <div id="main-content" class="photo-gallery blq-clearfix">
+			<!-- No EWA -->
+
+
+    
+
+
+<div class="layout-block-a">
+    	
+    		<span class="story-date">
+    <span class="date">18 July 2013</span>
+<span class="time-text">Last updated at </span><span class="time">09:04 GMT</span>
+	  
+</span>
+
+
+
+
+	<h1 class="story-header">Your pictures: Racing</h1>
+
+        
+	<div class="bbccom_advert_placeholder">
+		<script type="text/javascript">$render("advert","advert-sponsor-section",'BBC News - Your pictures: Racing');</script>
+	</div>
+	<script type="text/javascript">$render("advert-post-script-load");</script>
+    
+      
+         
+ 
+    	
+	<div id="pictureGallery" class="picture-gallery">
+	  <noscript>
+          &lt;ul id="gallery" class="noscript"&gt;
+                                    &lt;li id="picGalleryNoScript_1"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787797_68787796.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862726_68787796.jpg" width="144" height="81" alt="Horse racing in St Moritz"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Each week we publish a gallery of readers&amp;#039; pictures on a set theme. This week it is &amp;quot;racing&amp;quot; and we begin with this photograph by Phil White of horse racing on the frozen lake at St Moritz, Switzerland.&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_2"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787124_68783220.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862727_68783220.jpg" width="121" height="81" alt="A competitor competes in the Northern Ireland Masters Cross Country "/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Paul Carron: &amp;quot;True grit. A competitor in the Northern Ireland Masters Cross Country at Lurgan Park earlier this year. I liked this because I think it shows the determination on his face.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_3"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787129_68787128.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862728_68787128.jpg" width="144" height="81" alt="Cars racing"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Ian Garfield: &amp;quot;I have been lucky enough to visit a number of motorsport events over the last few years. The weather&amp;#039;s not always been kind but with racing it&amp;#039;s unpredictable and there&amp;#039;s always action.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_4"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787420_68787419.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862729_68787419.jpg" width="81" height="81" alt="Playing on a game console"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Stephen Arrandale: &amp;quot;Modern armchair racing.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_5"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787235_68787234.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862730_68787234.jpg" width="144" height="81" alt="Tyrrell Elf in Monaco"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Kyle Burt: &amp;quot;A 1970s Tyrrell F1 car navigates the streets of Monaco during the 2008 Monaco Historic Grand Prix.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_6"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68788000/jpg/_68788214_68788213.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862731_68788213.jpg" width="144" height="81" alt="Spectators through the grandstand at the Goodwood "/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Matthew Alker: &amp;quot;I took this picture of the spectators through the grandstand at the Goodwood Revival Meeting in 2011.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_7"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68788000/jpg/_68788190_68788189.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862732_68788189.jpg" width="144" height="81" alt="Children running"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Elizabeth Thomas: &amp;quot;Cousins brought together from Australia, Singapore and Dubai for their grandmother&amp;#039;s 70th birthday in Montalcino [Italy]. The competition for first place was fierce but the smiles lasted all week long.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_8"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787734_68787733.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862733_68787733.jpg" width="144" height="81" alt="Goat racing"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Lesley Reader: &amp;quot;The annual goat races in Dar es Salaam, Tanzania. Running for over 10 years this has now become quite an event, with people in fancy dress and plenty of bets placed.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_9"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787600_68787598.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862734_68787598.jpg" width="144" height="81" alt="Cross country runners"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Stefano Angeli: &amp;quot;A very hard 14.6km [nine-mile] cross country summer race. Here are the first and second best runners in the fifth Trophy Bagno di Romagna Terme, Italy.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_10"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787692_68787691.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862735_68787691.jpg" width="144" height="81" alt="JPS Lotus"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Tom Ricketts: &amp;quot;The car is Mario Andretti&amp;#039;s 1970s F1 John Player Special Lotus on the short straight after the first bend on the Lime Rock track in Connecticut [US].&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_11"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787242_68787241.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862736_68787241.jpg" width="144" height="81" alt="Man in helmet"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Henry Nel: &amp;quot;I took this photograph of a friend late one afternoon when the Sun was setting. I was trying to use the Sun to highlight the emotions in his face.&amp;quot; &lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_12"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787509_68787508.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862737_68787508.jpg" width="144" height="81" alt="Power boat racing"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;Santiago Nield: &amp;quot;This was taken on Oulton Broad in Lowestoft and it was by chance that I was following this particular boat with my camera as it spun out of control, creating the huge splash of water behind it as it did so.&amp;quot;&lt;/span&gt;
+            &lt;/li&gt;
+                        &lt;li id="picGalleryNoScript_13"&gt;
+              &lt;a href="http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787321_68787320.jpg" &gt;&lt;img src="http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862738_68787320.jpg" width="144" height="81" alt="Racing on West Cork beach"/&gt;&lt;/a&gt;
+              &lt;span class="picGalCaption"&gt;And finally... a photograph of racing on a West Cork beach by Ken O&amp;#039;Connell.  The next theme is &amp;quot;urban life&amp;quot; and the deadline for your entries is 23 July. If you would like to enter, send your pictures to yourpics@bbc.co.uk. Further details and terms can be found by following the link below this gallery.&lt;/span&gt;
+            &lt;/li&gt;
+                      &lt;/ul&gt;		  
+	  </noscript>
+      <div id="pictureGalleryGeneratedId_0" class="slideshow-container slideshow" style="width: 976px; height: 549px; background-color: rgb(0, 0, 0); overflow: hidden; position: relative;"><div class="pic0" style="position: absolute; z-index: 0; width: 976px; text-align: center; opacity: 0;"><img src="./BBC_News_Your_pictures_Racing_files/_68787242_68787241.jpg" alt="Man in helmet" galleryimg="no" style="margin-left: auto; margin-right: auto; display: block;"></div><div class="pic1" style="position: absolute; z-index: 1; opacity: 1; width: 976px; text-align: center;"><img src="./BBC_News_Your_pictures_Racing_files/_68787692_68787691.jpg" alt="JPS Lotus" galleryimg="no" style="margin-left: auto; margin-right: auto; display: block;"></div><div class="mask" visible="yes" style="opacity: 0.7; top: 506px;"><div class="caption" style="opacity: 1;"><p>Tom Ricketts: "The car is Mario Andretti's 1970s F1 John Player Special Lotus on the short straight after the first bend on the Lime Rock track in Connecticut [US]."</p></div><div class="transitionMask" style="height: 549px;"></div></div><div class="nav"><div class="next-container" style="opacity: 0.7;"><a tabindex="999" class="next" title="Next image"><span>Next image</span></a><span> | </span></div><div class="previous-container" style="opacity: 0.7;"><a tabindex="999" class="previous" title="Previous image"><span>Previous image</span></a><span> | </span></div><div class="separator"><span> | </span></div></div></div><div id="pictureGalleryGeneratedId_1" class="carousel-container dynamic-carousel"><div class="glow177-carousel" style="width: 976px;"><div class="carousel-picture-gallery"><a class="carousel-nav carousel-prev " href="http://www.bbc.co.uk/news/in-pictures-23347210#" style="height: 81px;"><span class="carousel-label">previous</span><span class="carousel-background"></span><span class="carousel-top"></span><span class="carousel-bottom"></span><span class="carousel-arrow"></span></a><div class="carousel-window" style="width: 976px; height: 81px;"><ol class="carousel-content" style="zoom: 1; width: 2736px; margin-left: -864px;"><li id="carouselItem1" class="carousel-item " style=""><div class="image-holder"><img alt="Horse racing in St Moritz" title="Horse racing in St Moritz" src="./BBC_News_Your_pictures_Racing_files/_68862726_68787796.jpg"></div></li><li id="carouselItem2" class="carousel-item "><div class="image-holder"><img alt="A competitor competes in the Northern Ireland Masters Cross Country " title="A competitor competes in the Northern Ireland Masters Cross Country " src="./BBC_News_Your_pictures_Racing_files/_68862727_68783220.jpg"></div></li><li id="carouselItem3" class="carousel-item "><div class="image-holder"><img alt="Cars racing" title="Cars racing" src="./BBC_News_Your_pictures_Racing_files/_68862728_68787128.jpg"></div></li><li id="carouselItem4" class="carousel-item "><div class="image-holder"><img alt="Playing on a game console" title="Playing on a game console" src="./BBC_News_Your_pictures_Racing_files/_68862729_68787419.jpg"></div></li><li id="carouselItem5" class="carousel-item "><div class="image-holder"><img alt="Tyrrell Elf in Monaco" title="Tyrrell Elf in Monaco" src="./BBC_News_Your_pictures_Racing_files/_68862730_68787234.jpg"></div></li><li id="carouselItem6" class="carousel-item "><div class="image-holder"><img alt="Spectators through the grandstand at the Goodwood " title="Spectators through the grandstand at the Goodwood " src="./BBC_News_Your_pictures_Racing_files/_68862731_68788213.jpg"></div></li><li id="carouselItem7" class="carousel-item "><div class="image-holder"><img alt="Children running" title="Children running" src="./BBC_News_Your_pictures_Racing_files/_68862732_68788189.jpg"></div></li><li id="carouselItem8" class="carousel-item "><div class="image-holder"><img alt="Goat racing" title="Goat racing" src="./BBC_News_Your_pictures_Racing_files/_68862733_68787733.jpg"></div></li><li id="carouselItem9" class="carousel-item "><div class="image-holder"><img alt="Cross country runners" title="Cross country runners" src="./BBC_News_Your_pictures_Racing_files/_68862734_68787598.jpg"></div></li><li id="carouselItem10" class="carousel-item  selected"><div class="image-holder"><img alt="JPS Lotus" title="JPS Lotus" src="./BBC_News_Your_pictures_Racing_files/_68862735_68787691.jpg"></div></li><li id="carouselItem11" class="carousel-item "><div class="image-holder"><img alt="Man in helmet" title="Man in helmet" src="./BBC_News_Your_pictures_Racing_files/_68862736_68787241.jpg"></div></li><li id="carouselItem12" class="carousel-item"><div class="image-holder"><img alt="Power boat racing" title="Power boat racing" src="./BBC_News_Your_pictures_Racing_files/_68862737_68787508.jpg"></div></li><li id="carouselItem13" class="carousel-item"><div class="image-holder"><img alt="Racing on West Cork beach" title="Racing on West Cork beach" src="./BBC_News_Your_pictures_Racing_files/_68862738_68787320.jpg"></div></li><li class="carousel-item carousel-added carousel-pad" style="" role="presentation" tabindex="-1"><div class="image-holder" style="visibility: hidden;"><img alt="Horse racing in St Moritz" title="Horse racing in St Moritz" src="./BBC_News_Your_pictures_Racing_files/_68862726_68787796.jpg" tabindex="-1"></div></li><li class="carousel-item carousel-added carousel-pad" style="" role="presentation" tabindex="-1"><div class="image-holder" style="visibility: hidden;"><img alt="Horse racing in St Moritz" title="Horse racing in St Moritz" src="./BBC_News_Your_pictures_Racing_files/_68862726_68787796.jpg" tabindex="-1"></div></li><li class="carousel-item carousel-added carousel-pad" style="" role="presentation" tabindex="-1"><div class="image-holder" style="visibility: hidden;"><img alt="Horse racing in St Moritz" title="Horse racing in St Moritz" src="./BBC_News_Your_pictures_Racing_files/_68862726_68787796.jpg" tabindex="-1"></div></li><li class="carousel-item carousel-added carousel-pad" style="" role="presentation" tabindex="-1"><div class="image-holder" style="visibility: hidden;"><img alt="Horse racing in St Moritz" title="Horse racing in St Moritz" src="./BBC_News_Your_pictures_Racing_files/_68862726_68787796.jpg" tabindex="-1"></div></li><li class="carousel-item carousel-added carousel-pad" style="" role="presentation" tabindex="-1"><div class="image-holder" style="visibility: hidden;"><img alt="Horse racing in St Moritz" title="Horse racing in St Moritz" src="./BBC_News_Your_pictures_Racing_files/_68862726_68787796.jpg" tabindex="-1"></div></li><li class="carousel-item carousel-added carousel-pad" style="" role="presentation" tabindex="-1"><div class="image-holder" style="visibility: hidden;"><img alt="Horse racing in St Moritz" title="Horse racing in St Moritz" src="./BBC_News_Your_pictures_Racing_files/_68862726_68787796.jpg" tabindex="-1"></div></li></ol></div><a class="carousel-nav carousel-next" href="http://www.bbc.co.uk/news/in-pictures-23347210#" style="height: 81px;"><span class="carousel-label">next</span><span class="carousel-background"></span><span class="carousel-top"></span><span class="carousel-bottom"></span><span class="carousel-arrow"></span></a></div></div></div><div class="base-bar" style="width:976px;"><div class="controls"><a tabindex="2" class="hide-show-captions-button" title="Hide captions">Hide captions</a><a tabindex="1" class="playpause_button play" title="Start slideshow">Start slideshow</a></div><div class="slide-counter"><div class="imageposition">Image 10 of 13</div></div></div></div>
+      
+<div id="page-bookmark-links-foot" class="share-help">
+  <h3>Share this page</h3><div id="bottom-share-toolbar" class="bbc-st bbc-st-slim bbc-st-colour bbc-st-dark bbc-st-force-flash-hide bbc-st-disable-facebook-panel" style="font-size: 0.7692307692307693em; display: block;"><p class="bbc-st-basic"><a href="http://www.bbc.co.uk/modules/sharetools/share?url=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fin-pictures-23347210&title=BBC%20News%20-%20Your%20pictures%3A%20Racing&appId=news&facebook-message=">Share this page</a></p><div class="bbc-st-wrapper bbc-st-rst bbc-st-v1"><div class="bbc-st-count"></div><ul class="bbc-st-buttons"><li class="bbc-st-share-cta"><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page to other places">Share</a></li><li class="bbc-st-facebook-cta"><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Facebook">Facebook</a></li><li class="bbc-st-twitter-cta"><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Twitter">Twitter</a></li></ul></div></div>
+  <ul>  	
+    
+    
+    
+    
+    
+    
+    <li class="email">
+      <a title="Email this story" href="http://newsvote.bbc.co.uk/mpapps/pagetools/email/www.bbc.co.uk/news/in-pictures-23347210">Email</a>
+    </li>
+    <li class="print">
+      <a title="Print this story" href="http://www.bbc.co.uk/news/in-pictures-23347210?print=true">Print</a>
+    </li>
+  </ul>
+<!--  Social media icons by Paul Annet | http://nicepaul.com/icons  -->
+
+<div class="bbccom_advert_placeholder">
+	<script type="text/javascript">$render("advert","advert-sponsor-module","page-bookmark-links");</script>
+</div>
+<script type="text/javascript">$render("advert-post-script-load");</script>
+  
+</div>
+<script type="text/javascript"> 
+<!--
+$render("page-bookmark-links","page-bookmark-links-foot",{
+    useForgeShareTools:"true",
+    position:"bottom",
+    site:'News', 
+    headline:'BBC News - Your pictures: Racing', 
+    storyId:'23347210', 
+    sectionId:'101115', 
+    url:'http://www.bbc.co.uk/news/in-pictures-23347210', 
+    edition:'International'
+}); 
+-->
+</script>
+
+ 
+ 
+ 		
+ 
+		<div class="related">
+	  <h2>Related Stories</h2>
+        <ul>
+				
+        							<li class="first">           
+                        <a href="http://www.bbc.co.uk/news/world-10768282">We set the theme; you take the pictures </a>            
+                </li>
+							            </ul>
+    </div>
+	
+	 <!-- Read More - See Also -->
+	
+     
+    <!-- end Read Mode - See Also -->
+
+				
+
+
+
+
+		     <div class="hyperpuff">
+	       	         <div id="more-galleries" class="more-galleries">
+		<h2>More galleries</h2>
+	<ul>
+				
+    								        			<li class="first-child">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/in-pictures-25101961">            					
+								Day in pictures
+								<img src="./BBC_News_Your_pictures_Racing_files/_71350998_71350449.jpg" alt="The feathered hat of an Italian Bersagliere is blown by a strong wind ">
+        					</a>        					
+        				</h3>
+						<p>24 hours of news photos: 26 November</p>
+        			</li>
+    				
+        																			        			<li class="child-1">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/uk-scotland-south-scotland-25104625">            					
+								Murmuration
+								<img src="./BBC_News_Your_pictures_Racing_files/_71350910_020134189-1.jpg" alt="Starlings">
+        					</a>        					
+        				</h3>
+						<p>Starlings gather in huge numbers near Gretna</p>
+        			</li>
+    				
+        																			        			<li class="child-2">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/world-asia-25084093">            					
+								Bangkok protests
+								<img src="./BBC_News_Your_pictures_Racing_files/_71323171_020113425-1.jpg" alt="Thai national flags fly at Democracy Monument during an anti-government rally, calling for Thai Prime Minister Yingluck Shinawatra to step down, in Bangkok, Thailand, 24 November 2013 ">
+        					</a>        					
+        				</h3>
+						<p>Protesters demand resignation of PM</p>
+        			</li>
+    				
+        																			        			<li class="child-3">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/world-europe-25087932">            					
+								Ukraine protests
+								<img src="./BBC_News_Your_pictures_Racing_files/_71329376_71329196.jpg" alt="Ukrainian police react to pepper spray">
+        					</a>        					
+        				</h3>
+						<p>Violence in Ukraine over EU trade deal</p>
+        			</li>
+    				
+        																			        			<li class="child-4">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/in-pictures-25087283">            					
+								Day in pictures
+								<img src="./BBC_News_Your_pictures_Racing_files/_71328252_71324033.jpg" alt="Women launch a paper hot air balloon ">
+        					</a>        					
+        				</h3>
+						<p>24 hours of news photos: 25 November</p>
+        			</li>
+    				
+        																			        			<li class="child-5">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/in-pictures-25049680">            					
+								Week in pictures
+								<img src="./BBC_News_Your_pictures_Racing_files/_71290443_71275798.jpg" alt="A circular hat with slit detail by British designer Philip Treacy during a press preview for the Isabella Blow show">
+        					</a>        					
+        				</h3>
+						<p>News photos from around the world</p>
+        			</li>
+    				
+        																			        			<li class="child-6">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/world-europe-25048839">            					
+								Store collapse
+								<img src="./BBC_News_Your_pictures_Racing_files/_71273054_71272792.jpg" alt="A general view shows a store with a collapsed roof in Riga, November 21, 2013">
+        					</a>        					
+        				</h3>
+						<p>Rescue efforts continue in Latvian capital Riga</p>
+        			</li>
+    				
+        																			        			<li class="child-7">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/in-pictures-25049681">            					
+								Day in pictures 
+								<img src="./BBC_News_Your_pictures_Racing_files/_71282405_71280749.jpg" alt="A Palestinian man displays a bird for sale at a weekly pet market in Gaza City ">
+        					</a>        					
+        				</h3>
+						<p>24 hours of news photos: 22 November  </p>
+        			</li>
+    				
+        																			        			<li class="child-8">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/in-pictures-25000667">            					
+								Portrait Salon
+								<img src="./BBC_News_Your_pictures_Racing_files/_71208418_kajalpatel1.jpg" alt="Portrait by Kajal Patel">
+        					</a>        					
+        				</h3>
+						<p>A selection of this year's pictures </p>
+        			</li>
+    				
+        																			        			<li class="last-child">
+        				<h3>
+        					<a href="http://www.bbc.co.uk/news/in-pictures-25000664">            					
+								The Hidden Mother
+								<img src="./BBC_News_Your_pictures_Racing_files/_71199796_0377copy.jpg" alt="The Hidden Mother">
+        					</a>        					
+        				</h3>
+						<p>Keeping a child in front of the lens</p>
+        			</li>
+    				
+        													</ul>
+	</div>
+<script type="text/javascript">$render("more-galleries","more-galleries");</script>
+	       	     </div>
+		
+				
+</div><!-- end layout-a --> 
+	  
+	    
+    
+	<!-- END CPS_SECTION_SKIN CLASS: in-pictures -->
+   
+  <script type="text/javascript">
+	$render("photo-gallery","pictureGallery",{
+	  galleryWidth: 976,
+ 	  slideShowHeight: 549,
+      itemsData: {
+        "version" : "0.2",
+        "storyId" : "23347210",
+        "images" : [
+                              {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787797_68787796.jpg",
+            "caption" : "Each week we publish a gallery of readers\' pictures on a set theme. This week it is \"racing\" and we begin with this photograph by Phil White of horse racing on the frozen lake at St Moritz, Switzerland.",
+            "alt" : "Horse racing in St Moritz",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862726_68787796.jpg",
+              "alt" : "Horse racing in St Moritz"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787124_68783220.jpg",
+            "caption" : "Paul Carron: \"True grit. A competitor in the Northern Ireland Masters Cross Country at Lurgan Park earlier this year. I liked this because I think it shows the determination on his face.\"",
+            "alt" : "A competitor competes in the Northern Ireland Masters Cross Country ",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862727_68783220.jpg",
+              "alt" : "A competitor competes in the Northern Ireland Masters Cross Country "
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787129_68787128.jpg",
+            "caption" : "Ian Garfield: \"I have been lucky enough to visit a number of motorsport events over the last few years. The weather\'s not always been kind but with racing it\'s unpredictable and there\'s always action.\"",
+            "alt" : "Cars racing",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862728_68787128.jpg",
+              "alt" : "Cars racing"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787420_68787419.jpg",
+            "caption" : "Stephen Arrandale: \"Modern armchair racing.\"",
+            "alt" : "Playing on a game console",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862729_68787419.jpg",
+              "alt" : "Playing on a game console"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787235_68787234.jpg",
+            "caption" : "Kyle Burt: \"A 1970s Tyrrell F1 car navigates the streets of Monaco during the 2008 Monaco Historic Grand Prix.\"",
+            "alt" : "Tyrrell Elf in Monaco",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862730_68787234.jpg",
+              "alt" : "Tyrrell Elf in Monaco"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68788000/jpg/_68788214_68788213.jpg",
+            "caption" : "Matthew Alker: \"I took this picture of the spectators through the grandstand at the Goodwood Revival Meeting in 2011.\"",
+            "alt" : "Spectators through the grandstand at the Goodwood ",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862731_68788213.jpg",
+              "alt" : "Spectators through the grandstand at the Goodwood "
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68788000/jpg/_68788190_68788189.jpg",
+            "caption" : "Elizabeth Thomas: \"Cousins brought together from Australia, Singapore and Dubai for their grandmother\'s 70th birthday in Montalcino [Italy]. The competition for first place was fierce but the smiles lasted all week long.\"",
+            "alt" : "Children running",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862732_68788189.jpg",
+              "alt" : "Children running"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787734_68787733.jpg",
+            "caption" : "Lesley Reader: \"The annual goat races in Dar es Salaam, Tanzania. Running for over 10 years this has now become quite an event, with people in fancy dress and plenty of bets placed.\"",
+            "alt" : "Goat racing",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862733_68787733.jpg",
+              "alt" : "Goat racing"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787600_68787598.jpg",
+            "caption" : "Stefano Angeli: \"A very hard 14.6km [nine-mile] cross country summer race. Here are the first and second best runners in the fifth Trophy Bagno di Romagna Terme, Italy.\"",
+            "alt" : "Cross country runners",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862734_68787598.jpg",
+              "alt" : "Cross country runners"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787692_68787691.jpg",
+            "caption" : "Tom Ricketts: \"The car is Mario Andretti\'s 1970s F1 John Player Special Lotus on the short straight after the first bend on the Lime Rock track in Connecticut [US].\"",
+            "alt" : "JPS Lotus",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862735_68787691.jpg",
+              "alt" : "JPS Lotus"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787242_68787241.jpg",
+            "caption" : "Henry Nel: \"I took this photograph of a friend late one afternoon when the Sun was setting. I was trying to use the Sun to highlight the emotions in his face.\" ",
+            "alt" : "Man in helmet",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862736_68787241.jpg",
+              "alt" : "Man in helmet"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787509_68787508.jpg",
+            "caption" : "Santiago Nield: \"This was taken on Oulton Broad in Lowestoft and it was by chance that I was following this particular boat with my camera as it spun out of control, creating the huge splash of water behind it as it did so.\"",
+            "alt" : "Power boat racing",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862737_68787508.jpg",
+              "alt" : "Power boat racing"
+            }
+          },                    {
+            "imageType"  : "story",
+            "src" : "http://news.bbcimg.co.uk/media/images/68787000/jpg/_68787321_68787320.jpg",
+            "caption" : "And finally... a photograph of racing on a West Cork beach by Ken O\'Connell.  The next theme is \"urban life\" and the deadline for your entries is 23 July. If you would like to enter, send your pictures to yourpics@bbc.co.uk. Further details and terms can be found by following the link below this gallery.",
+            "alt" : "Racing on West Cork beach",
+            "thumbnail" : {
+              "src" : "http://news.bbcimg.co.uk/media/images/68862000/jpg/_68862738_68787320.jpg",
+              "alt" : "Racing on West Cork beach"
+            }
+          }                  ]
+      }
+    });
+  </script>
+ 	<!-- END #MAIN-CONTENT & CPS_ASSET_TYPE CLASS: photo_gallery -->
+	</div>
+<!-- END CPS_AUDIENCE CLASS: international -->
+	
+</div> 
+<div id="related-services" class="footer">
+   <div id="news-services">
+      <h2>Services</h2>
+      <ul>
+         <li id="service-mobile" class="first-child"><a href="http://www.bbc.co.uk/news/10628994"><span class="gvl3-mobile-icon-large services-icon">&nbsp;</span>Mobile</a></li>
+         <li id="service-feeds"><a href="http://www.bbc.co.uk/news/help-17655000"><span class="gvl3-connected-tv-icon-large services-icon">&nbsp;</span>Connected TV</a></li>
+         <li id="service-podcast"><a href="http://www.bbc.co.uk/news/10628494"><span class="gvl3-feeds-icon-large services-icon">&nbsp;</span>News feeds</a></li>
+         <li id="service-alerts"><a href="http://www.bbc.co.uk/news/10628323"><span class="gvl3-alerts-icon-large services-icon">&nbsp;</span>Alerts</a></li>
+         <li id="service-email-news"><a href="http://www.bbc.co.uk/news/help/16617948"><span class="gvl3-email-icon-large services-icon">&nbsp;</span>E-mail news</a></li>
+      </ul>	 
+   </div>
+   <div id="news-related-sites">
+      <h2><a href="http://www.bbc.co.uk/news/19888761">About BBC News</a></h2>
+      <ul>
+         <li class="column-1"><a href="http://www.bbc.co.uk/news/blogs/the_editors/">Editors' blog</a></li>
+         <li class="column-1"><a href="http://www.bbc.co.uk/journalism/">BBC College of Journalism</a></li>
+         <li class="column-1"><a href="http://www.bbc.co.uk/news/10621655">News sources</a></li>
+         <li class="column-1"><a href="http://www.bbc.co.uk/mediaaction/">Media Action</a></li>
+         <li class="column-1"><a href="http://www.bbc.co.uk/editorialguidelines/">Editorial Guidelines</a></li>
+      </ul>
+   </div>
+</div>
+</div><!-- close in-pictures -->
+
+
+
+	
+	
+
+   </div>   <!--[if IE 6]> <div id="blq-ie6-upgrade"> <p> <span>You're using the Internet Explorer 6 browser to view the BBC website. Our site will work much better if you change to a more modern browser. It's free, quick and easy.</span> <a href="http://www.browserchoice.eu/">Find out more <span>about upgrading your browser</span> here&hellip;</a> </p> </div> <![endif]-->  <div id="blq-foot" xml:lang="en-GB" class="blq-rst blq-clearfix blq-foot-transparent blq-foot-text-dark" role="contentinfo"> <div id="blq-footlinks"> <h2 class="blq-hide">BBC links</h2>       <ul>                    <li class="blq-footlinks-row" role="presentation"> <ul class="blq-footlinks-row-list" role="presentation"> <li><a href="http://www.bbc.co.uk/news/mobile/" id="blq-footer-mobile">Mobile site</a></li><li><a href="http://www.bbc.co.uk/terms/">Terms of Use</a></li><li><a href="http://www.bbc.co.uk/aboutthebbc/">About the BBC</a></li> </ul> </li>                     <li class="blq-footlinks-row" role="presentation"> <ul class="blq-footlinks-row-list" role="presentation"> <li><a href="http://advertising.bbcworldwide.com/">Advertise With Us</a></li><li><a href="http://www.bbc.co.uk/privacy/">Privacy</a></li><li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help</a></li> </ul> </li>                     <li class="blq-footlinks-row" role="presentation"> <ul class="blq-footlinks-row-list" role="presentation"> <li><a href="http://www.bbc.co.uk/bbc.com/ad-choices/">Ad Choices</a></li><li><a href="http://www.bbc.co.uk/privacy/bbc-cookies-policy.shtml">Cookies</a></li><li><a href="http://www.bbc.co.uk/news/21323537">Contact the BBC</a></li> </ul> </li>           <li class="blq-footlinks-row" role="presentation"> <ul class="blq-footlinks-row-list" role="presentation"> <li><a href="http://www.bbc.co.uk/guidance/">Parental Guidance</a></li> </ul> </li>             </ul> <script type="text/javascript">/*<![CDATA[*/ (function() { var mLink = document.getElementById('blq-footer-mobile'), stick = function() { var d = new Date (); d.setYear(d.getFullYear() + 1); d = d.toUTCString(); window.bbccookies.set('ckps_d=m;domain=.bbc.co.uk;path=/;expires=' + d ); window.bbccookies.set('ckps_d=m;domain=.bbc.com;path=/;expires=' + d ); }; if (mLink) {  if (mLink.addEventListener) { mLink.addEventListener('click', stick, false); } else if (mLink.attachEvent) { mLink.attachEvent('onclick', stick); } } })(); /*]]>*/</script>  </div>  <div id="blq-foot-blocks" class="blq-footer-image-dark"><img src="./BBC_News_Your_pictures_Racing_files/dark.png" width="84" height="24" alt="BBC"></div>  <p id="blq-disclaim"><span id="blq-copy">BBC © 2013</span> <a href="http://www.bbc.co.uk/help/web/links/">The BBC is not responsible for the content of external sites. Read more.</a></p> <div id="blq-obit"><p><strong>This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.</strong></p></div> </div> </div> 
+<!-- BBCDOTCOM analytics template:server-side journalismVariant: true ipIsAdvertiseCombined: true adsEnabled: false showDotcom: true flagpole: ON -->
+            
+    <!-- BBCCOM analytics server-side -->
+<div id="bbccomWebBug" class="bbccomWebBug"></div>
+
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if('undefined' != typeof(bbcdotcom) && 'undefined' != typeof(bbcdotcom.stats)) {
+        bbcdotcom.stats.contentType = "HTML";
+    }
+    /*]]>*/
+</script>
+
+
+	<div id="gnlAnalyticsEnabled" class="bbccom_display_none"></div>
+
+    <!-- Start Audience Science -->
+    <script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J08781"></script>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        var adKeyword = document.getElementsByName('ad_keyword');
+        if('/news/uk-11767495' == window.location.pathname) {
+            J08781.DM_addEncToLoc("Section","Royal Wedding");
+        } else if (undefined != adKeyword[0]) {
+            J08781.DM_addEncToLoc("Section",adKeyword[0].content);
+        } else if ("undefined" != typeof bbc &&
+            "undefined" != typeof bbc.fmtj &&
+            "undefined" != typeof bbc.fmtj.page &&
+            "undefined" != typeof bbc.fmtj.page.section) {
+                J08781.DM_addEncToLoc("Section", bbc.fmtj.page.section);
+        }
+        J08781.DM_tag();
+        /*]]>*/
+    </script>
+    <!-- End Audience Science -->
+
+    <!-- SiteCatalyst code version: H.21.
+    Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+    More info available at http://www.omniture.com -->
+    
+        <script type="text/javascript">
+            var s_account = "bbcwglobalprod";
+        </script>
+    
+    
+        <script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/s_code.js"></script>
+    
+    <script type="text/javascript"><!--
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=scw.t();if(s_code)document.write(s_code)//--></script>
+        <script type="text/javascript"><!--
+        if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+        //--></script><noscript>&lt;div&gt;&lt;a href="http://www.omniture.com" title="Web Analytics"&gt;&lt;img
+        src="http://sa.bbc.com/b/ss/bbcwglobalprod/1/H.21--NS/0"
+        height="1" width="1" alt="" /&gt;&lt;/a&gt;&lt;/div&gt;</noscript><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.21. -->
+
+
+    <!-- Begin comScore Tag -->
+    <script type="text/javascript">
+        document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));</script><script src="./BBC_News_Your_pictures_Racing_files/beacon.js"></script>
+    <script type="text/javascript">
+        COMSCORE.beacon({
+            c1:2,
+            c2:"6035051",
+            c3:"",
+            c4:"www.bbc.co.uk/news/in-pictures-23347210",
+            c5:"",
+            c6:"",
+            c15:""
+        });
+    </script>
+    <noscript>
+        &lt;div&gt;
+            &lt;img src="http://b.scorecardresearch.com/b?c1=2&amp;amp;c2=6035051&amp;amp;c3=&amp;amp;c4=www.bbc.co.uk/news/in-pictures-23347210&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=1.3&amp;amp;cj=1" style="display:none" width="0" height="0" alt="" /&gt;
+        &lt;/div&gt;
+    </noscript>
+    <!-- End comScore Tag -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Effective Measure BBCCOM-1195 -->
+    <script type="text/javascript">
+      (function() {
+        var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+        em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+      })();
+    </script>
+    <noscript>
+        &lt;div&gt;
+            &lt;img src="http://me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" /&gt;
+        &lt;/div&gt;
+    </noscript>
+    <!-- End Effective Measure -->
+
+
+
+
+
+
+     </div> </div>  <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </script>  <script type="text/html" id="blq-panel-template-promo"><![CDATA[ <div id="blq-panel-promo" class="blq-masthead-container"></div> ]]></script> <script type="text/html" id="blq-panel-template-more"><![CDATA[ <div id="blq-panel-more" class="blq-masthead-container  blq-clearfix" xml:lang="en-GB" dir="ltr"> <div class="blq-panel-container panel-paneltype-more"> <div class="panel-header"> <h2> <a href="http://www.bbc.co.uk/a-z/">  More&hellip;  </a> </h2>  <a href="http://www.bbc.co.uk/a-z/" class="panel-header-links panel-header-link">Full A-Z<span class="blq-hide"> of BBC sites</span></a>  </div> <div class="panel-component panel-links">       <ul>   <li> <a href="http://www.bbc.co.uk/cbbc/"  >CBBC</a> </li>    <li> <a href="http://www.bbc.co.uk/cbeebies/"  >CBeebies</a> </li>    <li> <a href="http://www.bbc.co.uk/comedy/"  >Comedy</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/food/"  >Food</a> </li>    <li> <a href="http://www.bbc.co.uk/history/"  >History</a> </li>    <li> <a href="http://www.bbc.co.uk/learning/"  >Learning</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/music/"  >Music</a> </li>    <li> <a href="http://www.bbc.co.uk/science/"  >Science</a> </li>    <li> <a href="http://www.bbc.co.uk/nature/"  >Nature</a> </li>   </ul>  <ul>   <li> <a href="http://www.bbc.co.uk/local/"  >Local</a> </li>    <li> <a href="http://www.bbc.co.uk/travelnews/"  >Travel News</a> </li>   </ul>   </div> </div> ]]></script>            
+	
+
+<!-- shared/foot -->
+<script type="text/javascript">
+	bbc.fmtj.common.removeNoScript({});
+	bbc.fmtj.common.tabs.createTabs({});
+</script>
+<!-- hi/news/foot.inc -->
+
+<!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 50924; /** Chartbeat BBC id **/
+_sf_async_config.domain = "bbc.co.uk";/** BBC domain being tracked **/
+_sf_async_config.sections = "in-pictures";
+_sf_async_config.region = "international";
+
+  <!-- all multi-edition pages that are not indexes eg. story pages need the title -->
+  var storyTitle = "BBC+News+-+Your+pictures%3A+Racing".replace(new RegExp('\\+', 'gi'),' ');//remove the plus signs
+  storyTitle = decodeURIComponent(storyTitle.replace("BBC News - ",""));//remove the sub-string 'BBC News' and convert utf-8 chars to html
+  _sf_async_config.title = storyTitle;
+
+/** CONFIGURATION END **/
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+<!-- shared/foot_photo_gallery -->
+<!-- #CREAM hi news international foot.inc -->
+
+ 
+
+
+
+
+<script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/carousel.js"></script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/slideshow.js"></script><script type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/picture_gallery.js"></script><div class="glow177-cssTest" style="height:0;position:absolute;visibility:hidden;top:-20px;display:block"></div><div id="_em_stage__em" style="display:none"></div><script src="./BBC_News_Your_pictures_Racing_files/sharetools.js"></script><div class="glowNoMask" style="margin: 0px; padding: 0px; position: absolute; width: 100%; top: 0px; left: 0px; overflow: auto; z-index: 9900; background-color: rgb(0, 0, 0); visibility: hidden; opacity: 0; background-position: initial initial; background-repeat: initial initial;"></div><div class="glow177-overlay glowNoMask " aria-hidden="true" id="bbc-st-share-panel" role="tooltip" aria-live="polite" tabindex="0" style="z-index: 9990; width: 210px;"><div class="overlay-focalPoint" tabindex="-1"></div><div class="bbc-st-panel bbc-st-sharepanel glow177-infoPanel-pointB"><div class="infoPanel-pointerT">&nbsp;</div><div class="panel-main"><div class="panel-hd"><h5>Share this page</h5></div><div class="panel-bd"><ul class="bbc-st-all"><li class="bbc-st-first"><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Delicious" class="bbc-st-delicious-cta">Delicious</a> <span></span></li><li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Digg" class="bbc-st-digg-cta">Digg</a> <span></span></li><li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Facebook" class="bbc-st-facebook-cta">Facebook</a> <span></span></li><li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Google" class="bbc-st-google-cta">Google</a> <span></span></li><li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Linkedin" class="bbc-st-linkedin-cta">Linkedin</a> <span></span></li><li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Reddit" class="bbc-st-reddit-cta">Reddit</a> <span></span></li><li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on StumbleUpon" class="bbc-st-stumbleupon-cta">StumbleUpon</a> <span></span></li><li><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" title="Share this page on Twitter" class="bbc-st-twitter-cta">Twitter</a> <span></span></li></ul></div><div class="panel-ft"><p class="bbc-st-explain"><a href="http://www.bbc.co.uk/help/web/sharing.shtml">Read more about these links.</a></p></div><a href="http://www.bbc.co.uk/news/in-pictures-23347210#" class="panel-close" title="Close">Close</a></div><div class="infoPanel-pointerB">&nbsp;</div></div><div class="panelAccess">End of panel. <a href="http://www.bbc.co.uk/news/in-pictures-23347210#">Back to top of panel</a><a href="http://www.bbc.co.uk/news/in-pictures-23347210#">Close Panel</a></div></div><script async="" src="./BBC_News_Your_pictures_Racing_files/shares"></script><script language="javascript" type="text/javascript" src="./BBC_News_Your_pictures_Racing_files/chartbeat.js"></script></body></html>

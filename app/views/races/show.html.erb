@@ -1,0 +1,65 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Racename:</b>
+  <%= @race.racename %>
+</p>
+
+<p>
+	  <b>Circuit Map:</b>
+	  <%= image_tag(@race.circutmap, :size =>'50x50')%>
+</p>
+
+<p>
+  <b>Trailer:</b>
+  <%= @race.trailer %>
+</p>
+
+<p>
+  <b>Dor:</b>
+  <%= @race.dor %>
+</p>
+
+<p>
+  <b>Vehicletype:</b>
+  <%= @race.vehicletype %>
+</p>
+
+<p>
+  <b>Racetype:</b>
+  <%= @race.racetype %>
+</p>
+
+<p>
+  <b>Sponsor:</b>
+  <%= @race.sponsor %>
+</p>
+
+<p>
+  <b>Location:</b>
+  <%= @race.location %>
+</p>
+
+<p>
+  <b>Telephone:</b>
+  <%= @race.telephone %>
+</p>
+
+<p>
+  <b>Website:</b>
+  <%= @race.website %>
+</p>
+
+<p>
+  <b>Driverentryfee:</b>
+  <%= @race.driverentryfee %>
+</p>
+
+<p>
+  <b>Spectatorfee:</b>
+  <%= @race.spectatorfee %>
+</p>
+
+
+<%= link_to 'Edit', edit_race_path(@race) %> |
+<%= link_to 'Back', races_path %>

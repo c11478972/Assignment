@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  racename: MyString
+  circutmap: MyString
+  trailer: MyText
+  dor: 2013-11-27
+  vehicletype: MyString
+  racetype: MyString
+  sponsor: 1
+  location: MyString
+  telephone: MyString
+  website: MyString
+  driverentryfee: 1.5
+  spectatorfee: 1.5
+
+two:
+  racename: MyString
+  circutmap: MyString
+  trailer: MyText
+  dor: 2013-11-27
+  vehicletype: MyString
+  racetype: MyString
+  sponsor: 1
+  location: MyString
+  telephone: MyString
+  website: MyString
+  driverentryfee: 1.5
+  spectatorfee: 1.5

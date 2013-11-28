@@ -25,7 +25,7 @@
 			<li><%=mail_to "c11478972@mydit.ie", "Contact Us"%></li>
 			<li><%=link_to "Register", new_customer_path %></li>
 			<% customer = @current_customer %> <!--This is to allow a logged user to view their vehicle details-->
-			<li><%=link_to "Vehicles", customer %></li>
+			<li><%=link_to "Vehicles", customer %></li><!--This links to the show view of the customer page, which has a loop displaying all of thier cars-->
 		</ul>
 	</div>
 	<!--Start Page-->
@@ -57,8 +57,8 @@
 	<!--end page-->
 <div id="footer">
 	<p class="legal">Copyright (c) 2007 Website Name. All rights reserved.</p>
-	<p class="credit">Designed by <a href="http://www.nodethirtythree.com/">NodeThirtyThree</a> + <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a></p>
-	<p> Was not a cut and past job!!</p>
+	<p class="credit">Web Application by Stephen O'Kennedy/C11478972 <br/>Designed by <a href="http://www.nodethirtythree.com/">NodeThirtyThree</a> + <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a></p>
+	<p> Was not a cut and paste job!!</p>
 </div>
 </body>
 </html>

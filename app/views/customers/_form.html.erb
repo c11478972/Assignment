@@ -13,19 +13,19 @@
 
   <div class="field">
     <%= f.label :first_name %><br />
-    <%= f.text_field :first_name %>
+    <%= f.text_field :first_name %> <font color="red">*</font>
   </div>
   <div class="field">
     <%= f.label :last_name %><br />
-    <%= f.text_field :last_name %>
+    <%= f.text_field :last_name %><font color="red">*</font>
   </div>
   <div class="field">
     <%= f.label :email %><br />
-    <%= f.text_field :email %>
+    <%= f.text_field :email %><font color="red">*</font>
   </div>
   <div class="field">
 	<%= f.label :password %><br/>
-	<%= f.password_field :password%>
+	<%= f.password_field :password%><font color="red">*</font>
   </div>
   <div class="field">
 	<%= f.label :password_confirmation %><br/>
@@ -42,4 +42,5 @@
   <div class="actions">
     <%= f.submit %>
   </div>
+  <font color="red">* <strong>Required Fields</strong></font>
 <% end %>
