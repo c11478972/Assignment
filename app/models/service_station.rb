@@ -1,6 +1,7 @@
 class ServiceStation < ActiveRecord::Base
 	belongs_to :location
 	has_many :repairs
+	has_many :races
 	validates :name, presence: true
 	validates :owner, presence: true
 	validates :contact_number, presence: true

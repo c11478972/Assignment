@@ -1,5 +1,7 @@
 Assignment1::Application.routes.draw do
 
+  resources :journals
+
   resources :races
 
 	match '/signin', :to => 'sessions#new'# Allows to put a link on a html pages

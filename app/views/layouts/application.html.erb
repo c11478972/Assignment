@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
-  <%= javascript_include_tag "application" %>
-  <%= csrf_meta_tags %>
+	<title>Coldstreamers</title>
+	 <%= stylesheet_link_tag  "http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/redmond/jquery-ui.css", "application", :media => "all" %>
+  <%= javascript_include_tag "http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js", "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js", "application" %>
+	<%= csrf_meta_tags %>
 </head>
 <body>
 	<div id="banner">
-	<%= link_to root_path do%>
-		<%= image_tag("img04.jpg", :size=> "960x147")%>
-	<%end%>
+		<%= link_to root_path do%>
+			<%= image_tag("img04.jpg", :size=> "960x147")%>
+		<%end%>
 	</div>
 	
 	<div id="menu">
@@ -21,9 +22,10 @@
 				<li><%= link_to "Sign Out", signout_path %></li>
 			<% end %>
 			<li><%= link_to "About", about_path%></li>
-			<li><%= link_to "Blog", 'about_path' %></li>
+			<li><%= link_to "Journal", 'journals_path' %></li>
 			<li><%=mail_to "c11478972@mydit.ie", "Contact Us"%></li>
 			<li><%=link_to "Register", new_customer_path %></li>
+			<li><%=link_to "Races", races_path %></li>
 			<% customer = @current_customer %> <!--This is to allow a logged user to view their vehicle details-->
 			<li><%=link_to "Vehicles", customer %></li><!--This links to the show view of the customer page, which has a loop displaying all of thier cars-->
 		</ul>
